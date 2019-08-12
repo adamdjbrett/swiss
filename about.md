@@ -4,18 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Swiss is a bold Jekyll theme inspired by Swiss design and the works of Massimo Vignelli. This theme lends itself well to sites heavy on written content.
 
-### Features:
-* Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.
-* Designed for blogs and sites heavy on written content, with bold typography styles, homepage summaries, and previous/next snippets.
-* Supports a wide range of HTML elements and markdown.
-* Flexible styles that can be reused for customization without adding additional CSS.
-* Simple styling for code snippets (if you want something with syntax highlighting, checkout ....)
-* Dynamically generated navigation links. See docs below for adding pages with specific post category for-loops.
+Adam DJ Brett is a Ph.D. Candidate in the Department of Religion at Syracuse University’s College of Arts and Sciences. He holds a Th.M. and M.T.S from Brite Divinity School at Texas Christian University. Currently he is the social media coordinator for [NABPR: National Association of Baptist Professors of Religion](http://nabpr.org/) and the webmaster for the [Department of Religion at Syracuse University](http://religion.syr.edu/).
 
-## Themes
 
-## Browser Support
+## Areas of interest
+* American Religion/American Religious History
+* Fundamentalisms
+* Religion, Media, and Technology
+* Comics and Graphic Novels
 
-## Installation
+## Courses taught
+* Religion and Science Fiction (REL320)
+* Introduction to the Study of Religion (REL120)
