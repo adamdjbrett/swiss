@@ -32,3 +32,9 @@ theme_color: red
 
 # Build settings
 markdown: kramdown
+
+exclude:
+  - CHANGELOG.MD
+  - CNAME
+  - LICENSE.txt
+  - README.md
