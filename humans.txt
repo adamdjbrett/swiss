@@ -13,9 +13,14 @@ Twitter: {{ author.twitter }}{% endif %}
 {% endfor %}
 
 /* THANKS */
+Name: Diana Mounter @broccolini
+Role: Creator of Swiss Theme, and Staff at Github
+Site: http://broccolini.net/
+Twitter: @broccolini
+Theme: https://broccolini.net/swiss/
 
 Name: Moritz »mo.« Sauer
-Role: Creator of the Theme
+Role: Ruby/Jekyll-izer of atom.xml, feed.xml, robots.txt, humans.txt for Jekyll
 Site: http://mo.phlow.de/
 Twitter: @phlow
 Theme: http://phlow.github.io/feeling-responsive/
