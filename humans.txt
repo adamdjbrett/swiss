@@ -3,6 +3,7 @@ layout: null
 title: "Staff Information"
 source: "http://humanstxt.org/Standard.html"
 permalink: /humans.txt
+exclude: true
 ---
 /* TEAM */
 {% for author_entry in site.data.authors %}{% assign author = author_entry[1] %}
