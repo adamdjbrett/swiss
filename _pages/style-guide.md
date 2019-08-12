@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Style Guide
-image: /assets/img/unsplash/parker-byrd-gxD8hCmi0IQ-unsplash.jpg
 permalink: /style-guide/
 ---
 
@@ -9,9 +8,7 @@ This is a pragraph. Pellentesque habitant [morbi tristique](https://example.com)
 
 ## Images
 
-Wide image with caption.
 
-{% include image-caption.html imageurl="/assets/images/posts/2018/8.jpg#wide" title="Concrete roads" caption="This is caption" %}
 
 Images work too! Already know the URL of the image you want to include in your article? Simply paste it in like this to make it show up:
 
