@@ -3,6 +3,7 @@ layout: category-post
 title:  "Hipster Ipsum"
 date:   2019-08-12
 categories: writing
+author: adamdjbrett
 ---
 ## Gothic
 Health goth jean shorts authentic salvia intelligentsia cold-pressed tbh marfa meh kickstarter. Craft beer plaid viral, activated charcoal polaroid truffaut readymade brunch retro microdosing direct trade chicharrones. La croix williamsburg tumeric pork belly try-hard palo santo. Raclette craft beer pork belly shaman ramps marfa pug cred shabby chic af. Banh mi offal master cleanse bitters, helvetica mixtape tousled. Waistcoat freegan pug, twee microdosing sustainable next level woke hashtag cronut actually.
