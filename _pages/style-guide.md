@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Style Guide
+image: /assets/img/unsplash/parker-byrd-gxD8hCmi0IQ-unsplash.jpg
 permalink: /style-guide/
 ---
 
