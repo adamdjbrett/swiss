@@ -37,6 +37,14 @@ locale: en_US
 # Build settings
 markdown: kramdown
 
+# Plugins
+plugins:
+  -  jekyll-include-cache
+  -  jekyll-gist
+  -  jekyll-paginate
+  -  jekyll-seo-tag
+  -  jekyll-octicons
+
 include:
   - _pages
 
