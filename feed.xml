@@ -1,6 +1,5 @@
 ---
 layout: null
-title: "RSS Feed"
 permalink: /feed.xml
 redirect_from: /feed/
 exclude: true
