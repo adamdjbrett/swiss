@@ -13,7 +13,7 @@
         .cv-item-title { font-weight: bold; }
         .cv-item-content { padding-left: 40px; }
         .cv-item-content > ul { padding: 0; margin: 0; }
-        .cv-item-content em { color: #636c72; margin-left: 0.5rem; }
+        .cv-item-content em { color: #e74727; margin-left: 0.5rem; }
 
         {% unless config.no_lines %}
             .cv-section-header { position: relative; }
@@ -35,10 +35,10 @@
     </header>
 
     <section class="cv-basic-info">
-        <span class="cv-basic-info-item">{% octicon mail height:18 aria-label:download %}&nbsp;&nbsp;<a href="mailto:{{cv.email}}">{{cv.email}}</a></span>
-        <span class="cv-basic-info-item">{% octicon device-mobile height:18 aria-label:download %}&nbsp;&nbsp;{{cv.phone}}</span>
-        <span class="cv-basic-info-item">{% octicon mention height:18 aria-label:download %}&nbsp;&nbsp;<a href="{{cv.website}}">{{cv.website}}</a></span>
-        <span class="cv-basic-info-item">{% octicon pin height:18 aria-label:download %}&nbsp;&nbsp;{{cv.location}}</span>
+        <span class="cv-basic-info-item">{% octicon mail height:18 aria-label:download %}&nbsp;<a href="mailto:{{cv.email}}">{{cv.email}}</a></span>
+        <span class="cv-basic-info-item">{% octicon device-mobile height:18 aria-label:download %}&nbsp;{{cv.phone}}</span>
+        <span class="cv-basic-info-item">{% octicon mention height:18 aria-label:download %}&nbsp;<a href="{{cv.website}}">{{cv.website}}</a></span>
+        <span class="cv-basic-info-item">{% octicon pin height:18 aria-label:download %}&nbsp;{{cv.location}}</span>
     </section>
 
     {% for sec_id in cv.sections %}
