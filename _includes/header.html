@@ -8,13 +8,13 @@
     <ul class="list-reset mt-lg-1 mb-2 mb-lg-1">
       {% for page in site.pages %}
         {% unless page.exclude %}
-        {% if page.title %}
+          {% if page.title %}
         <li class="inline-block">
-          <a class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2" href="{{ my_page.url | prepend: site.baseurl }}">
+          <a class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2" href="{{ page.url | prepend: site.baseurl }}">
             {{ page.title }}
           </a>
         </li>
-        {% endif %}
+          {% endif %}
         {% endunless %}
       {% endfor %}
     </ul>
