@@ -23,7 +23,7 @@
     </style>
 
     {% if config.download_links %}
-        <span style="float: right">{% octicon cloud-download height:32 aria-label:hi %}&nbsp;
+        <span style="float: right">{% octicon cloud-download height:16 aria-label:hi %}&nbsp;
             {% for item in config.download_links %}&nbsp;&nbsp;<a title="Download as {{item[0]}}" href="{{item[1]}}">{{item[0]}}</a>{% endfor %}
         </span>
     {% endif %}
