@@ -30,6 +30,10 @@ social_username: adjbx
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
 theme_color: red
 
+# Customizations
+logo: 'assets/img/logo.png'
+locale: en_US
+
 # Build settings
 markdown: kramdown
 

@@ -10,8 +10,10 @@
   {% assign full_base_url = user_url | default: site.github.url %}
   <link rel="stylesheet" href="{{ "/assets/style.css" | prepend: full_base_url }}">
 
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" hreflang="en-us">
+  <link rel="author" href="{{ site.url }}/about/" />
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
   <script async defer src="https://buttons.github.io/buttons.js"></script>
+  {% include schema.html %}
 </head>
