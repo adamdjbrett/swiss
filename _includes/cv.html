@@ -23,7 +23,7 @@
     </style>
 
     {% if config.download_links %}
-        <span style="float: right">{% octicon cloud-download %}
+        <span style="float: right"><i class="fa fa-download"></i>
             {% for item in config.download_links %}&nbsp;&nbsp;<a title="Download as {{item[0]}}" href="{{item[1]}}">{{item[0]}}</a>{% endfor %}
         </span>
     {% endif %}
@@ -35,11 +35,11 @@
     </header>
 
     <section class="cv-basic-info">
-        <span class="cv-basic-info-item">{% octicon mail %}&nbsp;<a href="mailto:{{cv.email}}">{{cv.email}}</a></span>
-        <span class="cv-basic-info-item">{% octicon device-mobile %}&nbsp;{{cv.phone}}</span>
-        <span class="cv-basic-info-item">{% octicon mention %}&nbsp;<a href="{{cv.website}}">{{cv.website}}</a></span>
-        <span class="cv-basic-info-item">{% octicon pin %}&nbsp;{{cv.location}}</span>
-    </section>
+         <span class="cv-basic-info-item"><i class="fa fa-envelope"></i>&nbsp;&nbsp;<a href="mailto:{{cv.email}}">{{cv.email}}</a></span>
+         <span class="cv-basic-info-item"><i class="fa fa-phone"></i>&nbsp;&nbsp;{{cv.phone}}</span>
+         <span class="cv-basic-info-item"><i class="fa fa-mouse-pointer"></i>&nbsp;&nbsp;<a href="{{cv.website}}">{{cv.website}}</a></span>
+         <span class="cv-basic-info-item"><i class="fa fa-map-marker"></i>&nbsp;&nbsp;{{cv.location}}</span>
+     </section>
 
     {% for sec_id in cv.sections %}
         {% assign section = cv.data[sec_id] %}
@@ -63,3 +63,4 @@
     {% endfor %}
 
 </div><!-- .cv -->
+<script aync src="https://kit.fontawesome.com/862afa2d25.js"></script>

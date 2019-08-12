@@ -43,7 +43,6 @@ plugins:
   -  jekyll-gist
   -  jekyll-paginate
   -  jekyll-seo-tag
-  -  jekyll-octicons
 
 include:
   - _pages
