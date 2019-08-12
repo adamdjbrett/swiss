@@ -33,6 +33,9 @@ theme_color: red
 # Build settings
 markdown: kramdown
 
+include:
+  - _pages
+
 exclude:
   - CHANGELOG.MD
   - CNAME
