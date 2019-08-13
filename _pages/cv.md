@@ -1,6 +1,6 @@
 ---
-layout: page
-title: CV
+layout: cv
+title: cv
 permalink: /cv/
 cv:
     download_links:
