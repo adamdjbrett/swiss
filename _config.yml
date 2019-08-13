@@ -32,7 +32,7 @@ theme_color: red
 
 # Customizations
 logo: 'assets/img/logo.png'
-locale: en_US
+locale: en-US
 
 # Build settings
 markdown: kramdown
