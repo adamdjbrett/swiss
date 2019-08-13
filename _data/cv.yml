@@ -98,7 +98,7 @@ data:
           - Honor Oren Lyons ([honororenlyons.com](https://honororenlyons.com))
           - American Indian Law Alliance ([aila.ngo](https://aila.ngo))
           - Broadly Textual Pub ([broadlytextual.com](https://broadlytextual.com))
-          - Eileen Campbell-Reed ([eileencampbellreed.org](https://eileencampbellreed.org/))
+          - Eileen Campbell-Reed ([eileencampbellreed.org](https://eileencampbellreed.org))
             - State of Clergywomen in the U.S.: A Statistical Update ([stateofclergywomen.org/](http://stateofclergywomen.org))
             - Three Minute Ministry Mentor ([threeminuteministrymentor.org](http://threeminuteministrymentor.org))
           - Doctrine of Discovery Working Group ([doctrineofdiscovery.org](https://doctrineofdiscovery.org))
@@ -111,7 +111,7 @@ data:
           - Syracuse University, Department of Religion ([religion.syr.edu](http://religion.syr.edu))
           - Syracuse University, Jewish Studies ([jsp.syr.edu](http://jsp.syr.edu))
       - __2018__
-        - Bleak Theology ([bleaktheology.com](http://www.bleaktheology.com/))
+        - Bleak Theology ([bleaktheology.com](http://www.bleaktheology.com))
         - Website Advisor and Event Coordination
           - IAWE ([iawe.syr.edu](http://iawe.syr.edu))
         - Webmaster and Social Media Coordinator
@@ -189,8 +189,9 @@ data:
   publications:
     title: Publications
     text: |
-      - Book Review _Religious and Sexual Nationalisms in Central and Eastern Europe — Gods, Gays and Governments_, written by Sremac, Srdjan and R. Ruard Ganzevoort (eds.) (2015), _Journal of Empirical Theology_, 29(1), 133-134. [@doi:](https://doi.org/10.1163/15709256-12341335).
       - Book Review “Religion and Culture: Contemporary Practices and Perspectives.” _Perspectives in Religious Studies_ 42, no. 1 (Spr 2015): 92–94. [via ATLA](http://search.ebscohost.com/login.aspx?direct=true&db=rfh&AN=ATLAiC9Y160711000197&site=ehost-live.)
+      - Book Review _Religious and Sexual Nationalisms in Central and Eastern Europe — Gods, Gays and Governments_, written by Sremac, Srdjan and R. Ruard Ganzevoort (eds.) (2015), _Journal of Empirical Theology_, 29(1), 133-134. [@doi: 10.1163/15709256-12341335](https://doi.org/10.1163/15709256-12341335).
+
 
   presentations:
     title: Academic Presentations
