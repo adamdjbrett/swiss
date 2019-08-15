@@ -52,5 +52,5 @@ These are posters and flyers that I have designed for conferences, courses and l
 * 2017 Promotional images for the Deyhontsigwa’ehs- The Creator’s Game, Lacrosse Weekend hosted by [Indigenous Values Initiative](http://indigenousvalues.org), Lacrosse AllStars, Nike N7, & Onondaga Nation.
 * 2017 Invitation to the Syracuse University Department of Religion Reception at the American Academy of Religion/Society of Biblical Literature meeting in Boston.
 
-<script src="/assets/js/jquery-3.4.1.min.js" defer></script>
+<script src="/assets/js/jquery.min.js"></script>
 {% include lightbox.html %}
