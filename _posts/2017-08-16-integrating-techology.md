@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Integrating Technology in the Classroom | Adam DJ Brett and Caleb McWhorter"
+title:  "Integrating Technology in the Classroom"
 date:   2017-08-16
 excerpt: "Integrating Technology in the Classroom and utilizing technology to enhance teaching."
 feature: /assets/img/integrating-techology.jpg
@@ -12,7 +12,6 @@ tag:
 comments: false
 author: adamdjbrett
 ---
-
 
 # Integrating Technology in the Classroom
 by **Adam DJ Brett & Caleb McWhorter**
