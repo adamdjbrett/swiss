@@ -47,6 +47,9 @@ kramdown:
   enable_coderay: false
   excerpt_separator: "<!--more-->"
 
+# Permalinks
+permalink: /:title
+
 # Plugins
 plugins:
   -  jekyll-include-cache
