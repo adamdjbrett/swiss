@@ -48,7 +48,7 @@ kramdown:
   excerpt_separator: "<!--more-->"
 
 # Permalinks
-permalink: /:title
+permalink: /:title/
 
 # Plugins
 plugins:

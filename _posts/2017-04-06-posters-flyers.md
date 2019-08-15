@@ -10,7 +10,7 @@ tag:
 - lectures
 comments: false
 author: adamdjbrett
-excerpt: 'Posters and Flyers created for conferences, courses, and lectures'
+excerpt: 'Posters and Flyers created for conferences, courses, and lectures.'
 ---
 
 These are posters and flyers that I have designed for conferences, courses and lectures.
