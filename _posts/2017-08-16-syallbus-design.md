@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: category-post
 title:  "Syllabus Design Resources at Syracuse University"
 date:   2017-08-16
 excerpt: "Selected syllabus design resources at Syracuse University."
-feature: /assets/img/integrating-techology.jpg
+categories: website
 tag:
 - TAOP
 - technology

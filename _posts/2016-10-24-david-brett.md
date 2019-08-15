@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: category-post
 title:  "David Brett.im"
 date:   2016-10-24
 excerpt: "David Brett is a pastor, chaplain, carpenter, and educator in Central Florida."
-feature: /assets/img/DavidBrett.im-innaguration-prayer-med.jpg
 redirect_from: "/david-brett"
+categories: website
 tag:
 - pastor
 - portfolio

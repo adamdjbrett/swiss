@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: category-post
 title:  "Suzy James Photography"
 date:   2016-10-21
 excerpt: "Suzy James Photography is the website of a good photographer and friend who is based in southeast Texas."
-feature: /assets/img/suzyjamesphotography-logo.png
+categories: website
 tag:
 - photography
 - website

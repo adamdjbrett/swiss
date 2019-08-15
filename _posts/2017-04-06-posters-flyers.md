@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: category-post
 title:  "Posters and Flyers"
 date:   2017-10-24
+categories: website
 tag:
 - posters
 - flyers
