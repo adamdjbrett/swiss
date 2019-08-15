@@ -9,8 +9,7 @@ tag:
 - courses
 - lectures
 comments: false
-author: adamdjbrett
-excerpt: zzzzzzzzzzz
+author: adamdjbrett 
 ---
 
 These are posters and flyers that I have designed for conferences, courses and lectures.
