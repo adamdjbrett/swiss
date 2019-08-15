@@ -13,7 +13,7 @@ comments: false
 author: adamdjbrett
 ---
 
-# Integrating Technology in the Classroom
+## Integrating Technology in the Classroom
 by **Adam DJ Brett & Caleb McWhorter**
 August 16, 2017
 

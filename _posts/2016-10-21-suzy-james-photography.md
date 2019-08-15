@@ -11,7 +11,7 @@ comments: false
 author: adamdjbrett
 ---
 
-# Suzy James Photography
+## Suzy James Photography
 [Suzy James](http://www.suzyjamesphotography.com/) does special event photography, photojournalism, high school reunions, travel photography and much, much more. She needed a way to showcase her portfolio and allow clients to download images, purchase prints, etc and to do so in a quick and easy way. Ultimately we settled SmugMug for hosting, developing secure galleries, and hosting prints. The website uses a standard smugmug template with customized HTML, CSS, and Javascript to suit James' needs.
 
 <figure>

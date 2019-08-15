@@ -14,8 +14,8 @@ author: adamdjbrett
 ---
 
 
-# Syracuse University Teaching Assistant Orientation
-# Syllabus Design Workshop
+## Syracuse University Teaching Assistant Orientation
+### Syllabus Design Workshop
 Small Group &#x23;2
 August 16, 2017
 

@@ -14,7 +14,7 @@ tag:
 comments: false
 ---
 
-# Posters and flyers
+## Posters and flyers
 These are posters and flyers that I have designed for conferences, courses and lectures.
 
 {% include image-gallery.html folder="/assets/img/posters" %}

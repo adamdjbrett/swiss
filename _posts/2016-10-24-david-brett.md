@@ -14,8 +14,8 @@ comments: false
 author: adamdjbrett
 ---
 
-# David Brett | DavidBrett.im
-[David Brett](http://davidbrett.im) works as a pastor, chaplain, and carpenter in The Villages, Florida. He also worked and taught in several educational settings.
+## [David J. Brett](http://davidbrett.im)
+David J. Brett works as a pastor, chaplain, and carpenter in The Villages, Florida. He also worked and taught in several educational settings.
 As a sought after guest speaker for churches, people have asked David for a portfolio of his work as pastor, chaplain, and carpenter. I came up with a wordpress site for David so that he can login, update, edit and maintain his site. Wordpress utilizes a CDN on the backend to ensure that the site and its resources are always online.
 
 
