@@ -1,4 +1,4 @@
-# [Adam DJ Brett][https://adamdjbrett.com]
+# [Adam DJ Brett](https://adamdjbrett.com)
 I am using the awesome Swiss Jekyll Theme by [@broccolini](https://broccolini.net/)
 
 ## [Swiss Jekyll Theme](https://broccolini.net/swiss/)
