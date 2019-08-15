@@ -10,6 +10,7 @@
       - `_layouts` and update `home.html`
 - Set up [yamlCV](https://github.com/AnotherKamila/yamlCV/) by @AnotherKamila
 - Add image gallery from [Jekyll Codex](https://jekyllcodex.org/without-plugin/image-gallery/)
+- modified `post_block.html` to use `{{ post.excerpt }}` instead of `{ post.content | strip_html | truncatewords:30 }}`
 
 ## 1.0
 - [Moon by @taylantatli](https://taylantatli.github.io/Moon/)
