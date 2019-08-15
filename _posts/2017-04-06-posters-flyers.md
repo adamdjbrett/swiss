@@ -13,6 +13,8 @@ tag:
 - lectures
 comments: false
 ---
+excerpt_separator: <!--more-->
+---
 
 These are posters and flyers that I have designed for conferences, courses and lectures.
 <!--more-->
