@@ -12,7 +12,6 @@ tag:
 - courses
 - lectures
 comments: false
----
 excerpt_separator: <!--more-->
 ---
 
