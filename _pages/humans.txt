@@ -5,12 +5,12 @@ permalink: /humans.txt
 exclude: true
 ---
 /* TEAM */
-{% for author_entry in site.data.authors %}{% assign author = author_entry[1] %}
-Name: {% if author.name %}{{ author.name }}{% else %}{{ site.author }}{% endif %}{% if author.siteroles %}
-Role: {{ author.siteroles }}{% endif %}{% if author.uri %}
-Site: {{ author.uri }}{% endif %}{% if author.twitter %}
-Twitter: {{ author.twitter }}{% endif %}
-{% endfor %}
+Author: Adam DJ Brett
+Contact: adam [at] adamdjbrett.com
+Twitter: @adjbx
+Web: Adamdjbrett.com | adamdj.tel
+From: Syracuse University, Syracuse, NY
+
 
 /* THANKS */
 Name: Diana Mounter @broccolini
@@ -19,12 +19,14 @@ Site: http://broccolini.net/
 Twitter: @broccolini
 Theme: https://broccolini.net/swiss/
 
-Name: Moritz »mo.« Sauer
-Role: Ruby/Jekyll-izer of atom.xml, feed.xml, robots.txt, humans.txt for Jekyll
+Added Components:
+Name: Moritz Sauer
+Role: Ruby/Jekyll-izer of plugin free atom.xml, feed.xml, robots.txt, humans.txt 
 Site: http://mo.phlow.de/
-Twitter: @phlow
-Theme: http://phlow.github.io/feeling-responsive/
 
+Name: Kamila Součková
+Role: Creator of yamlCV
+Site: http://Kamila.is
 
 /* SITE */
 
