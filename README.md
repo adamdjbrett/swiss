@@ -1,5 +1,6 @@
 # [Adam DJ Brett](https://adamdjbrett.com)
 I am using the awesome Swiss Jekyll Theme by [@broccolini](https://broccolini.net/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/008ccb85-3a40-4cfa-9482-39f0306322e8/deploy-status)](https://app.netlify.com/sites/adamdjbrett/deploys)
 
 ## [Swiss Jekyll Theme](https://broccolini.net/swiss/)
 
@@ -28,7 +29,7 @@ I have made some light modifications to @broccolini's theme for a complete list 
 - Thank you to [@broccolini](https://github.com/broccolini) for developing such a wonderful theme inspired by the work of Massimo Vignelli
 - [@AnotherKamila](https://github.com/AnotherKamila) for [yamlCV](https://github.com/AnotherKamila/yamlCV/)
 - [Jekyll Codex](https://jekyllcodex.org/without-plugin/image-gallery/) for the image gallery, search and more.
-- [@Phlow](https://github.com/phlow) for the plugin free versions of: atom.xml, feed.xml, robots.txt, humans.txt 
+- [@Phlow](https://github.com/phlow) for the plugin free versions of: atom.xml, feed.xml, robots.txt, humans.txt
 
 ## License
 
