@@ -61,6 +61,7 @@ plugins:
 
 include:
   - _pages
+  - _redirects
 
 exclude:
   - CHANGELOG.MD
