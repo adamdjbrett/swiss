@@ -3,7 +3,7 @@ layout: post
 title:  "Kay Miller Piano"
 date:   2016-10-20
 excerpt: "Kay Miller is a jazz musician and piano player located in Southeast, Texas."
-feature: /assets/img/Kay-Miller-piano-girl-miller.jpg
+feature: /assets/img/websites/kay-miller-piano-girl-miller.jpg
 tag:
 - piano
 - jazz
