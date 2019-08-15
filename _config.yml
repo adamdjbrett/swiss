@@ -36,6 +36,16 @@ locale: en-US
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  excerpt_separator: "<!--more-->"
 
 # Plugins
 plugins:
