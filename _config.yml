@@ -56,7 +56,6 @@ plugins:
   -  jekyll-include-cache
   -  jekyll-gist
   -  jekyll-paginate
-  -  jekyll-redirect-from
   -  jekyll-seo-tag
 
 include:
