@@ -9,6 +9,7 @@
       - `_includes` and update `header.html`
       - `_layouts` and update `home.html`
 - Set up [yamlCV](https://github.com/AnotherKamila/yamlCV/) by @AnotherKamila
+- Add image gallery from [Jekyll Codex](https://jekyllcodex.org/without-plugin/image-gallery/)
 
 ## 1.0
 - [Moon by @taylantatli](https://taylantatli.github.io/Moon/)
