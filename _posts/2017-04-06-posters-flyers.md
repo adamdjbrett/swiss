@@ -3,8 +3,6 @@ layout: post
 title:  "Posters and Flyers"
 date:   2017-10-24
 excerpt: "Posters and flyers designed by Adam DJ Brett for conferences, courses, and lectures."
-project: true
-feature: /assets/img/posters/2014-REL320-religion-scifi-preview.jpg
 tag:
 - posters
 - flyers
