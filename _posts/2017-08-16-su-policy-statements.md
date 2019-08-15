@@ -3,7 +3,7 @@ layout: category-post
 title:  "Selected Syracuse University Policy Statements"
 date:   2017-08-16
 excerpt: "Selected Syracuse University policy statements to help facilitate TA Orientation small group Discussion."
-categories: website
+categories: writing
 tag:
 - TAOP
 - policy

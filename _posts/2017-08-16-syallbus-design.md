@@ -3,7 +3,7 @@ layout: category-post
 title:  "Syllabus Design Resources at Syracuse University"
 date:   2017-08-16
 excerpt: "Selected syllabus design resources at Syracuse University."
-categories: website
+categories: writing
 tag:
 - TAOP
 - technology

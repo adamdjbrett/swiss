@@ -2,7 +2,7 @@
 layout: category-post
 title:  "Posters and Flyers"
 date:   2017-10-24
-categories: website
+categories: design
 tag:
 - posters
 - flyers

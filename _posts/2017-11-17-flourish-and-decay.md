@@ -16,6 +16,8 @@ author: adamdjbrett
 ## [Call for Papers](http://religionconference.syr.edu)
 The Religion Graduate Organization and the [Department of Religion at Syracuse University](http://religion.syr.edu/) announce [the 2018 Graduate Student Conference **Flourish and Decay: Exploring Religion in Process on Friday, April 13<sup>th</sup>, 2018.**](http://religionconference.syr.edu)
 
+[![Flourish and Decay Decorative Header](/assets/img/misc/flourish-and-decay-header-main-min_tn.jpg)](/assets/img/misc/flourish-and-decay-header-main-min.jpg)
+
 _**Flour·ish**: [‘flǝriSH] (n., v.) growth and development in a good environment; a gesture or to gesture in such a way that attracts attention._
 
 _**De·cay**: [dǝ͘‘kā] ‘(n., v.) to rot organically or the process of decomposition; to deteriorate; to fall into a state of disrepair. Rotten matter. A gradual decline of quality._

@@ -3,7 +3,7 @@ layout: category-post
 title:  "Integrating Technology in the Classroom"
 date:   2017-08-16
 excerpt: "Integrating Technology in the Classroom and utilizing technology to enhance teaching."
-categories: website
+categories: writing
 tag:
 - TAOP
 - technology
