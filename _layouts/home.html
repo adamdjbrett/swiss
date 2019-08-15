@@ -16,6 +16,7 @@
                 {% if page.title %}
               <li class="inline-block">
                 <a class="align-middle link-primary header-link mr-2" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                <p>{{ post.excerpt }}</p>
               </li>
                 {% endif %}
               {% endunless %}
