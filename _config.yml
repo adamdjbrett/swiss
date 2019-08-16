@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Adam DJ Brett
 description: "I am a Ph.D. Candidate in the Religion Department at Syracuse University where I study American Religion."
-baseurl: '/'  # the subpath of your site, e.g. /blog
+baseurl:  # the subpath of your site, e.g. /blog
 url: "https://adamdjbrett.com" # the base hostname & protocol for your site, e.g. http://example.com
 production_url: 'https://adamdjbrett.com'
 github_repo: adamdjbrett.github.io # the GitHub repo name for your project
