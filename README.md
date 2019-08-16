@@ -1,7 +1,8 @@
 # [Adam DJ Brett](https://adamdjbrett.com)
-I am using the awesome Swiss Jekyll Theme by [@broccolini](https://broccolini.net/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/008ccb85-3a40-4cfa-9482-39f0306322e8/deploy-status)](https://app.netlify.com/sites/adamdjbrett/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/008ccb85-3a40-4cfa-9482-39f0306322e8/deploy-status)](https://app.netlify.com/sites/adamdjbrett/deploys)  
 
+I am using the awesome Swiss Jekyll Theme by [@broccolini](https://broccolini.net/)  
+  
 ## [Swiss Jekyll Theme](https://broccolini.net/swiss/)
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-swiss.svg)](https://badge.fury.io/rb/jekyll-swiss)
