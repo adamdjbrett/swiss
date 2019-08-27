@@ -62,7 +62,6 @@ plugins:
 
 sass:
     sass_dir: _sass
-    sourcemap: true
 
 include:
   - _pages
