@@ -63,7 +63,7 @@ plugins:
 sass:
     sass_dir: _sass
     style: compressed
-    sourcemap: false
+    sourcemap: true
 
 include:
   - _pages
