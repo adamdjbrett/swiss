@@ -60,6 +60,9 @@ plugins:
   -  jekyll-include-cache
   -  jekyll-redirect-from
 
+sass:
+    sass_dir: _sass
+
 include:
   - _pages
   - _redirects
