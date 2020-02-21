@@ -1,6 +1,6 @@
 ---
 layout: category-post
-title:  "Haudenosaunee Women's Influence on the Women's Rights Movement"
+title:  "Haudenosaunee Women"
 date:   2020-02-20
 excerpt: "Featuring Gloria Steinem, Sally Roesch Wagner, Jeanne Shenandoah, & Betty Lyons"
 categories: website
