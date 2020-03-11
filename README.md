@@ -1,5 +1,8 @@
 # [Adam DJ Brett](https://adamdjbrett.com)
 ![GitHub deployments](https://img.shields.io/github/deployments/adamdjbrett/adamdjbrett.github.io/github-pages)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/adamdjbrett/adamdjbrett.github.io)
+[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
+[![Jekyll](https://img.shields.io/badge/Made%20with-Jekyll-1f425f.svg)](https://jekyllrb.com/)
 
 I am using the awesome Swiss Jekyll Theme by [@broccolini](https://broccolini.net/)  
 
