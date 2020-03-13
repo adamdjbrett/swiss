@@ -5,7 +5,7 @@ permalink: /consulting/
 ---
 What is your story? As a Ph.D. candidate in religion, I understand the power and importance of telling stories and I want to help you find and tell your story. With over a decade of Information and Communication Technologies (ICT) experience, I am well equipped to help you tell your story, whether that is through course development, pedagogy, websites, digital humanities, project, event planning, social media, or all of the above, I would be happy to help.
 
-## Online Course Development and Pedagogy
+## Online Course Development
 I am available for consulting on course design, assignments, managing an online course, and integrating various online platforms into the classroom in meaningful ways that enhance the learning goals and outcome of the course.
 
 ### Learning Management Systems
@@ -15,11 +15,11 @@ Working in technology and communications I have extensive experience with Blackb
 
 ### New Media in the Classroom
 Are you interested in integrating new media into the classroom? I can help you navigate the wide array to platforms and find what meets your needs and your students needs. Whether that is one of the platforms listed below or something else I'm here to help.
-    - Blogging
-    - Slack, Discord
-    - Social Media
-    - Podcasting
-    - Online Video   
+  - Blogging
+  - Slack, Discord
+  - Social Media
+  - Podcasting
+  - Online Video   
 
 ## Web Development
 Are you interested in a website for your digital humanities project, an educational website, a professional site or even a personal site? I am here to help. My [CV](/cv/) contains an extensive list of projects and websites I have helped develop. I am committed to helping your find something that works well for your needs and fits within your budget. In today's media landscape it is critical for academic's and professionals of all types to have [A Domain of One's Own](https://www.wired.com/insights/2012/07/a-domain-of-ones-own/). I can help you ensure that your website is has *responsive web design* (HTML5/CSS/JS) and looks great on any device and loads quickly.
