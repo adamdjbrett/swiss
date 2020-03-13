@@ -18,3 +18,8 @@ Adam DJ Brett is a Ph.D. Candidate in the Department of Religion at Syracuse Uni
   * Religion and Sports
   * Introduction to the Study of Religion
   * New Testament
+
+## Connect
+  * <adam@adamdjbrett.com>
+  * [@__adjb](https://twitter.com/__adjb)
+  * [github](https://github.com/adamdjbrett/)
