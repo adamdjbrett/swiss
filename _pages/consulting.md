@@ -14,6 +14,8 @@ Working in technology and communications, I have extensive experience with Black
   - Blackboard
   - Moodle  
 
+![chalkboard image by @athree23 from Pixabay ](/assets/img/stock/board-3700116_640.jpg "a chalkboard with happy, ambivalent, and sad faces. There is a green check next to the happy face")
+
 ### New Media in the Classroom
 Are you interested in integrating new media into the classroom? I can help you navigate the vast array to platforms and find what meets your needs and your student's needs. Whether that is one of the platforms listed below or something else, let me know.
   - Blogging
