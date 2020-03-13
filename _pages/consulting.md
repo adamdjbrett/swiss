@@ -9,12 +9,12 @@ What is your story? As a Ph.D. candidate in religion, I understand the power and
 I am available for consulting on course design, assignments, managing an online course, and integrating various online platforms into the classroom in meaningful ways that enhance the learning goals and outcome of the course.
 
 ### Learning Management Systems
-Working in technology and communications I have extensive experience with Blackboard and Moodle on the backend and front-end of these platforms so I understand their limitations and the places where they excel
+Working in technology and communications I have extensive experience with Blackboard and Moodle on the backend and front-end of these platforms so I understand their limitations and the places where they excel.
   - Blackboard
-  - Moodle
+  - Moodle  
   
 ### New Media in the Classroom
-Are you interested in integrating new media into the classroom? I can help you navigate the wide array to platforms and find what meets your needs and your students needs. Whether that is one of the plaforms listed below or something else I'm here to help.
+Are you interested in integrating new media into the classroom? I can help you navigate the wide array to platforms and find what meets your needs and your students needs. Whether that is one of the platforms listed below or something else I'm here to help.
   - Blogging
   - Slack, Discord
   - Social Media
