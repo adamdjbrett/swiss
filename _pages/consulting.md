@@ -40,6 +40,9 @@ Are you hosting a conference, symposium, academic, fundraiser, or an athletic ev
 ## Social Media
 Social media is a vast landscape filled with every changing platforms. Not every platform works for every person or project. I would like to work with you to craft intentional social media content that reflects who you are and plays to the strengths of the social media platform that you wish to use.
 
+![Image by Gerd Altmann via Pixabay](/assets/img/stock/social-media-1432937_640.jpg "The word help surrounded by social media icons. A hand is tapping help like it is a button, desperate for help with the overwhelming nature of social media.")
+
+
 ## Past clients
 For a list of some past clients and projects please take a look at my [CV](/cv/) and past [posters and flyers](/posters-flyers/).
 
