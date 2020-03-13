@@ -12,7 +12,15 @@ I am available for consulting on course design, assignments, managing an online 
 Working in technology and communications I have extensive experience with Blackboard and Moodle on the backend and front-end of these platforms so I understand their limitations and the places where they excel.
   - Blackboard
   - Moodle  
-  
+
+### New Media in the Classroom
+Are you interested in integrating new media into the classroom? I can help you navigate the wide array to platforms and find what meets your needs and your students needs. Whether that is one of the platforms listed below or something else I'm here to help.
+    - Blogging
+    - Slack, Discord
+    - Social Media
+    - Podcasting
+    - Online Video   
+
 ## Web Development
 Are you interested in a website for your digital humanities project, an educational website, a professional site or even a personal site? I am here to help. My [CV](/cv/) contains an extensive list of projects and websites I have helped develop. I am committed to helping your find something that works well for your needs and fits within your budget. In today's media landscape it is critical for academic's and professionals of all types to have [A Domain of One's Own](https://www.wired.com/insights/2012/07/a-domain-of-ones-own/). I can help you ensure that your website is has *responsive web design* (HTML5/CSS/JS) and looks great on any device and loads quickly.
   - Single page websites
