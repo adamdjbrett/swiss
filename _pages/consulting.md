@@ -28,7 +28,7 @@ Are you interested in a website for your digital humanities project, an educatio
   - complicated websites
   - Ecommerce
   - Static sites ([Jekyll](http://jekyllrb.com/))
-  - Dynamic sites ([Wordpress](https://wordpress.org) and [Squarespace](https://www.squarespace.com/))
+  - Dynamic sites ([WordPress](https://wordpress.org) and [Squarespace](https://www.squarespace.com/))
 
 ## Events
 Are you hosting a conference, symposium, academic, fundraiser, or an athletic event? I have helped to plan all of those and I'm available for event planning and consulting.
