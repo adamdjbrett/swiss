@@ -12,6 +12,7 @@ I am available for consulting on course design, assignments, managing an online 
 Working in technology and communications I have extensive experience with Blackboard and Moodle on the backend and front-end of these platforms so I understand their limitations and the places where they excel
   - Blackboard
   - Moodle
+  
 ### New Media in the Classroom
 Are you interested in integrating new media into the classroom? I can help you navigate the wide array to platforms and find what meets your needs and your students needs. Whether that is one of the plaforms listed below or something else I'm here to help.
   - Blogging
