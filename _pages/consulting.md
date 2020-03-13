@@ -34,6 +34,10 @@ Are you interested in a website for your digital humanities project, an educatio
 ## Events
 Are you hosting a conference, symposium, academic, fundraiser, or an athletic event? I am available for event planning and consulting.
 
+Inline-style:
+![event flyer for the 2017 international lacrosse scrimmage in the carrier dome](/assets/img/posters2017-carrier-dome-update-fb.jpg "Flyer for the international lacrosse scrimmage between the Iroquois Nationals, Team Israel, and the University of Albany Greyhounds")
+
+
 ## Social Media
 Social media is a vast landscape filled with every changing platforms. Not every platform works for every person or project. I would like to work with you to craft intentional social media content that reflects who you are and plays to the strengths of the social media platform that you wish to use.
 
