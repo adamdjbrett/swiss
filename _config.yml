@@ -59,6 +59,7 @@ plugins:
   -  jekyll-sitemap
   -  jekyll-include-cache
   -  jekyll-redirect-from
+  -  gemoji
 
 sass:
     sass_dir: _sass

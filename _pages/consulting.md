@@ -27,7 +27,7 @@ Are you interested in a website for your digital humanities project, an educatio
   - Single page websites
   - Blogs
   - Complicated websites
-  - Ecommerce
+  - E-commerce
   - Static sites ([Jekyll](http://jekyllrb.com/))
   - Dynamic sites ([WordPress](https://wordpress.org) and [Squarespace](https://www.squarespace.com/))
 
