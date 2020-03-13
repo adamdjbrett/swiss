@@ -24,12 +24,12 @@ Are you interested in integrating new media into the classroom? I can help you n
 
 ## Web Development
 Are you interested in a website for your digital humanities project, an educational website, a professional site, or even a personal site? I am here to help. My [CV](/cv/) contains an extensive list of projects and websites I have helped develop. I am committed to helping you find something that works well for your needs and fits within your budget. In today's media landscape it is critical for all academics and professionals to have ["A Domain of One's Own"](https://www.wired.com/insights/2012/07/a-domain-of-ones-own/). Using responsive web design principles your website will look fantastic on all devices.
-  - Single page websites
-  - Blogs
-  - Complicated websites
-  - E-commerce
-  - Static sites ([Jekyll](http://jekyllrb.com/))
-  - Dynamic sites ([WordPress](https://wordpress.org) and [Squarespace](https://www.squarespace.com/))
+  - :globe_with_meridians: Single page websites
+  - :notebook: Blogs
+  - :open_file_folder: Complicated websites
+  - :money_with_wings: E-commerce
+  - :gem: Static sites ([Jekyll](http://jekyllrb.com/))
+  - :black_nib: Dynamic sites ([WordPress](https://wordpress.org) and [Squarespace](https://www.squarespace.com/))
 
 ## Events
 Are you hosting a conference, symposium, academic, fundraiser, or an athletic event? I am available for event planning and consulting.
