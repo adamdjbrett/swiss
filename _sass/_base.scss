@@ -53,10 +53,11 @@ h5, .h5 { font-size: $h5-size; }
 h6, .h6 { font-size: $h6-size; text-transform: uppercase; letter-spacing: 0.02em; }
 
 a {
-  color: inherit;
-  text-decoration: none;
+  color: $red;
+  text-decoration: underline;
 }
 
 a:hover {
-  text-decoration: underline;
+  text-decoration-line: underline;
+  text-decoration-style: double;
 }
