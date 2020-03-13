@@ -33,7 +33,7 @@ Are you interested in a website for your digital humanities project, an educatio
   - :gem: Static sites ([Jekyll](http://jekyllrb.com/))
   - :dizzy: Dynamic sites ([WordPress](https://wordpress.org) and [Squarespace](https://www.squarespace.com/))
 
-
+![Selected sites for demo reel](/assets/gifs/adam-demo-2020.gif "a short demo of some my sites")
 
 ## Events
 Are you hosting a conference, symposium, academic, fundraiser, or an athletic event? I am available for event planning and consulting.
