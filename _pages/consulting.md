@@ -1,20 +1,21 @@
----
+developmentassistance---
 layout: page
 title: Consulting
 permalink: /consulting/
 ---
-What is your story? As a Ph.D. candidate in religion, I understand the power and importance of telling stories and I want to help you find and tell your story. With over a decade of Information and Communication Technologies (ICT) experience, I am well equipped to help you tell your story, whether that is through course development, pedagogy, websites, digital humanities, project, event planning, social media, or all of the above, I would be happy to help.
+What is your story?
+As a Ph.D. candidate in religion, I understand the power and importance of stories. I want to help you find and tell your story. With over a decade of Information and Communication Technologies (ICT) experience, I am well equipped to help you articulate your story. Whether you need assistance with course development, digital humanities, event planning, web development, or social media, I am happy to help.
 
 ## Online Course Development
 I am available for consulting on course design, assignments, managing an online course, and integrating various online platforms into the classroom in meaningful ways that enhance the learning goals and outcome of the course.
 
 ### Learning Management Systems
-Working in technology and communications I have extensive experience with Blackboard and Moodle on the backend and front-end of these platforms so I understand their limitations and the places where they excel.
+Working in technology and communications, I have extensive experience with Blackboard and Moodle on the backend and front-end of these platforms. I understand their limitations and boundaries.
   - Blackboard
   - Moodle  
 
 ### New Media in the Classroom
-Are you interested in integrating new media into the classroom? I can help you navigate the wide array to platforms and find what meets your needs and your students needs. Whether that is one of the platforms listed below or something else I'm here to help.
+Are you interested in integrating new media into the classroom? I can help you navigate the vast array to platforms and find what meets your needs and your student's needs. Whether that is one of the platforms listed below or something else, let me know.
   - Blogging
   - Slack, Discord
   - Social Media
@@ -22,22 +23,22 @@ Are you interested in integrating new media into the classroom? I can help you n
   - Online Video   
 
 ## Web Development
-Are you interested in a website for your digital humanities project, an educational website, a professional site or even a personal site? I am here to help. My [CV](/cv/) contains an extensive list of projects and websites I have helped develop. I am committed to helping your find something that works well for your needs and fits within your budget. In today's media landscape it is critical for academic's and professionals of all types to have [A Domain of One's Own](https://www.wired.com/insights/2012/07/a-domain-of-ones-own/). I can help you ensure that your website is has *responsive web design* (HTML5/CSS/JS) and looks great on any device and loads quickly.
+Are you interested in a website for your digital humanities project, an educational website, a professional site, or even a personal site? I am here to help. My [CV](/cv/) contains an extensive list of projects and websites I have helped develop. I am committed to helping you find something that works well for your needs and fits within your budget. In today's media landscape it is critical for all academics and professionals to have ["A Domain of One's Own"](https://www.wired.com/insights/2012/07/a-domain-of-ones-own/). Using responsive web design principles your website will look fantastic on all devices.
   - Single page websites
   - Blogs
-  - complicated websites
+  - Complicated websites
   - Ecommerce
   - Static sites ([Jekyll](http://jekyllrb.com/))
   - Dynamic sites ([WordPress](https://wordpress.org) and [Squarespace](https://www.squarespace.com/))
 
 ## Events
-Are you hosting a conference, symposium, academic, fundraiser, or an athletic event? I have helped to plan all of those and I'm available for event planning and consulting.
+Are you hosting a conference, symposium, academic, fundraiser, or an athletic event? I am available for event planning and consulting.
 
 ## Social Media
 Social media is a vast landscape filled with every changing platforms. Not every platform works for every person or project. I would like to work with you to craft intentional social media content that reflects who you are and plays to the strengths of the social media platform that you wish to use.
 
 ## Past clients
-For a list of some past clients and projects please take a look at my [CV](/cv/) and [posters and flyers](/posters-flyers/) that I have done.
+For a list of some past clients and projects please take a look at my [CV](/cv/) and past [posters and flyers](/posters-flyers/).
 
 ## Get in Touch
 <!-- modify this form HTML and place wherever you want your form -->
