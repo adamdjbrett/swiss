@@ -50,6 +50,12 @@ Social media is a vast landscape filled with every changing platforms. Not every
 ## Past clients
 For a list of some past clients and projects please take a look at my [CV](/cv/) and past [posters and flyers](/posters-flyers/).
 
+## Payment Methods
+I accept the following electornic payments:
+  * [Paypal](https://paypal.me/adamdjbrett)
+  * [Venmo](https://venmo.com/adamdjbrett)
+  * [Cash App](https://cash.app/$AdamDJBrett)
+
 ## Get in Touch
 <!-- modify this form HTML and place wherever you want your form -->
 
