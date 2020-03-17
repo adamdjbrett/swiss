@@ -3,6 +3,7 @@ layout: category-post
 title:  "Referral Links and Discount Codes"
 date:   2020-03-17
 excerpt: "Discount codes for name.com, carrd.co, UpCloud, BunnyCDN and more."
+excerpt_separator: <!--more-->
 categories: website
 tag:
 - discount
@@ -13,6 +14,7 @@ author: adamdjbrett
 
 ## Discount codes and Referral Links.
 When consulting on projects and/or working as a developer on a project I use a wide variety of tools in my tech stacks. These resources are all things I have found incredibly helpful for myself and/or clients. If you use any of these links I will earn a discount off of them and so will you.
+<!--more-->
 
 ### Domains
 #### [name.com](https://www.name.com/referral/da845)
