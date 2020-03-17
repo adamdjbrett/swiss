@@ -36,11 +36,11 @@ Deploy your first cloud server with [UpCloud](https://upcloud.com/signup/?promo=
 Do you need something more robust than a one page website and are you not ready to go "serverless" with a static site generator like Jekyll or 11ty? Then UpCloud is for you. In my experience UpCloud is way easier to use than Vultr and DigitalOcean. You can deploy a robust and fast WordPress site in about 2-3 minutes based on my experience. You will be able to have WordPress + your bespoke theme up and going quickly. Plus your server bill and hosting will be very reasonable and if you want you can always boost your WordPress site performance by adding a Content Delivery Network (CDN) to take a lhelp your audience get your content even faster.
 
 ### Content Delivery Network (CDN)
-  * [BunnyCDN](https://bunnycdn.com/?ref=wtn001abeo).
-    * Refer a friend, get $20
-    * $20 earned for every new verified user you refer to BunnyCDN.
-    * A user must be active for at least 14 days and make a payment to count as verified.
-    * Apply the referral balance to your account at any time.
+#### [BunnyCDN](https://bunnycdn.com/?ref=wtn001abeo).
+  * Refer a friend, get $20
+  * $20 earned for every new verified user you refer to BunnyCDN.
+  * A user must be active for at least 14 days and make a payment to count as verified.
+  * Apply the referral balance to your account at any time.
 
 Sometimes fast isn't fast enough. When you need to speed up your website try BunnyCDN. BunnyCDN is fast, reliable, and quite powerful. It is also the most cost effective CDN I have found thus far at mere pennies on the GB served up to your website visitors. If you have a resource intensive website or if your website is just extremely popular check out BunnyCDN.
 
