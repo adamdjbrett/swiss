@@ -11,6 +11,7 @@ tag:
 - flyers
 comments: false
 author: adamdjbrett
+permalink: /design/
 ---
 
 These are posters and flyers that I have designed for conferences, courses and lectures.
