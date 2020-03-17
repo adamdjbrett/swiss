@@ -13,11 +13,13 @@ tag:
 comments: false
 author: adamdjbrett
 ---
+A presentation on integrating technology into the classroom.
+<!--more-->
+
 
 ## Integrating Technology in the Classroom
 by **Adam DJ Brett & Caleb McWhorter**
 August 16, 2017
-<!--more-->
 
 [Google Apps Presentation slides](https://goo.gl/vwqW4A)
 

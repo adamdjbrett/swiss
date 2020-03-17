@@ -15,10 +15,11 @@ author: adamdjbrett
 ---
 
 *The event was cancelled due to COVID-19 concerns*
+<!--more-->
 
 ## Haudenosaunee Women's Influence on the Women's Rights Movement
 ## Featuring: Gloria Steinem, Sally Roesch Wagner, Jeanne Shenandoah, & Betty Lyons
-<!--more-->
+
 While we celebrate the 100th anniversary of women gaining the right to vote in the United States, to celebrate the fact that women of the Haudenosaunee Confederacy have exercised political voice in this land for 1,000 years. These Indigenous women were the model for early suffragists like Lucretia Mott, Elizabeth Cady Stanton, and Matilda Joslyn Gage. In the mid-1800s, women of the United States were considered “dead in the law” after they married, which meant they had no rights and were under the control of their husbands. They looked at their Indigenous sisters, with whom they had formed friendships, and saw another society, one in which women and men were equals. Women were able to choose their political representatives, while having responsibility for the economy, land, and spiritual ceremonies. This model became the impetus for American women to demand equality under the law and the right to vote.
 
 

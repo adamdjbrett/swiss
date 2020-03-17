@@ -14,8 +14,11 @@ comments: false
 author: adamdjbrett
 ---
 
-These are selected Syracuse University policy documents which might be useful in helping to facilitate leading TA orientation small groups. This list is not exhaustive. Please discuss SU policy with your department and [Syracuse University  Governance, Ethics, Integrity, and Legal Compliance](supolicies.syr.edu).
+These are selected Syracuse University policy documents which might be useful in helping to facilitate leading TA orientation small groups.
 <!--more-->
+This list is not exhaustive and was for an exercise in 2017. 
+Please discuss SU policy with your department and [Syracuse University  Governance, Ethics, Integrity, and Legal Compliance](supolicies.syr.edu).
+
 
 # SU Policy Statements
 [Syracuse University  Governance, Ethics, Integrity, and Legal Compliance](supolicies.syr.edu)

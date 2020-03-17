@@ -14,16 +14,19 @@ comments: false
 author: adamdjbrett
 ---
 
-Stephanie M. Wyatt earned her PhD in Hebrew Bible (Old Testament) from Brite Divinity School at Texas Christian University. Here dissertation is _Widows in the Memories of Biblical Israel_. She is an ordained Baptist ministry who loves biblical interpretation, Christian education, pastoral care and ministry, social justice, and living sustainably.
-I helped Stephanie develop a wordpress website that highlights her work as a teacher-scholar, minister, and community builder.
+Stephanie M. Wyatt earned her PhD in Hebrew Bible (Old Testament) from Brite Divinity School at Texas Christian University.
 <!--more-->
+Her dissertation is _Widows in the Memories of Biblical Israel_. She is an ordained Baptist ministry who loves biblical interpretation, Christian education, pastoral care and ministry, social justice, and living sustainably.
+
 
 ## [Stephanie M. Wyatt](http://stephaniewyatt.net)
+I helped Stephanie develop a website that highlights her work as a teacher-scholar, minister, and community builder.
 
 ### Programming languages
 * HTML
 * CSS
 * Javascript
+* Jekyll + Github
 
 
 ### Other elements

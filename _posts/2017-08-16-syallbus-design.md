@@ -13,13 +13,14 @@ tag:
 comments: false
 author: adamdjbrett
 ---
-
+Syracuse University syallbi design resources for teaching assistants.
+<!--more-->
 
 ## Syracuse University Teaching Assistant Orientation
 ### Syllabus Design Workshop
 Small Group &#x23;2
 August 16, 2017
-<!--more-->
+
 
 ## Syllabus Recommendations
 * Please check with [CLASS](class.syr.edu) and your department to ensure that you are including the required syallbi elements.
