@@ -60,6 +60,7 @@ plugins:
   -  jekyll-include-cache
   -  jekyll-redirect-from
   -  jemoji
+  -  jekyll-last-modified-at
 
 sass:
     sass_dir: _sass
