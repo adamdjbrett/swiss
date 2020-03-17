@@ -1,6 +1,6 @@
 ---
 layout: category-post
-title:  "Haudenosaunee Women"
+title:  "Gloria Steinem"
 date:   2020-02-20
 excerpt: "Featuring Gloria Steinem, Sally Roesch Wagner, Jeanne Shenandoah, & Betty Lyons"
 categories: website
@@ -12,6 +12,8 @@ tag:
 comments: false
 author: adamdjbrett
 ---
+
+*The event was cancelled due to COVID-19 concerns*
 
 ## Haudenosaunee Women's Influence on the Women's Rights Movement
 ## Featuring: Gloria Steinem, Sally Roesch Wagner, Jeanne Shenandoah, & Betty Lyons
