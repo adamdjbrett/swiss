@@ -3,6 +3,7 @@ layout: category-post
 title:  "Gloria Steinem"
 date:   2020-02-20
 excerpt: "Featuring Gloria Steinem, Sally Roesch Wagner, Jeanne Shenandoah, & Betty Lyons"
+excerpt_separator: <!--more-->
 categories: website
 tag:
 - Indigenous
@@ -18,6 +19,7 @@ author: adamdjbrett
 ## Haudenosaunee Women's Influence on the Women's Rights Movement
 ## Featuring: Gloria Steinem, Sally Roesch Wagner, Jeanne Shenandoah, & Betty Lyons
 While we celebrate the 100th anniversary of women gaining the right to vote in the United States, to celebrate the fact that women of the Haudenosaunee Confederacy have exercised political voice in this land for 1,000 years. These Indigenous women were the model for early suffragists like Lucretia Mott, Elizabeth Cady Stanton, and Matilda Joslyn Gage. In the mid-1800s, women of the United States were considered “dead in the law” after they married, which meant they had no rights and were under the control of their husbands. They looked at their Indigenous sisters, with whom they had formed friendships, and saw another society, one in which women and men were equals. Women were able to choose their political representatives, while having responsibility for the economy, land, and spiritual ceremonies. This model became the impetus for American women to demand equality under the law and the right to vote.
+<!--more-->
 
 ![Haudenosaunee Women's Influence Poster](/assets/img/posters/2020-Haudenosaunee-women-influence-web.jpg "The central image features Onondaga Nation women (left to right) "Clanmother Audrey Shenandoah, daughters Rochelle Brown and Jessica Jeanne Shenandoah with cameos of Elizabeth Cady Stanton (left), Matilda Joslyn Gage (center) and Lucretia Mott (right). Image SCW ©2018, Onondaga Nation photograph: Toba Tucker ©1991")
 
