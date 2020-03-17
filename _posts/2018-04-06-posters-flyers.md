@@ -3,7 +3,9 @@ layout: category-post
 title:  "Design"
 excerpt_separator: <!--more-->
 date:   2017-10-24
-categories: design
+categories:
+- design
+- website
 tag:
 - posters
 - flyers

@@ -2,8 +2,11 @@
 layout: category-post
 title:  "Posters and Flyers"
 excerpt: "Posters and Flyers created for conferences, courses, and lectures."
+excerpt_separator: <!--more-->
 date:   2017-10-24
-categories: design
+categories:
+ - design
+ - website
 tag:
   - posters
   - flyers
