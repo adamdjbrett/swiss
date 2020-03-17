@@ -67,7 +67,7 @@ sass:
 
 include:
   - _pages
-  - _redirects
+
 
 exclude:
   - CHANGELOG.MD
