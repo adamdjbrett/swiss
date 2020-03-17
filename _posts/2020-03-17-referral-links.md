@@ -15,7 +15,7 @@ author: adamdjbrett
 When consulting on projects and/or working as a developer on a project I use a wide variety of tools in my tech stacks. These resources are all things I have found incredibly helpful for myself and/or clients. If you use any of these links I will earn a discount off of them and so will you.
 
 ### Domains
-  * [name.com](https://www.name.com/referral/da845)
+#### [name.com](https://www.name.com/referral/da845)
 
 [If you need a domain, Name.com is pretty amazing. Become a new customer and we both get $5!](https://www.name.com/referral/da845). Every domain name I own is registered with name.com. I especially appreciate the ability to do ANAME or ALIAS records for DNS. This is incredibly helpful for "serverless" hosting like github, netlify, zeit.co, surge, etc. Name.com's customer support is super fast and responsive. Whenever I have had questions or concerns they have been right there ready to help. Register or transfer your domains with them today.
 
@@ -26,7 +26,7 @@ When consulting on projects and/or working as a developer on a project I use a w
       * Carrd.co Pro Standard is $19 a year. That is it just $19 a year.
       * Carrd.co Pro Lite is $9 a year for a more budget friendly plan.
 
-Carrd.co is the best #nocode utility out there. It is great for academics, professionals, and anyone who needs [a domain of one's own](https://www.wired.com/insights/2012/07/a-domain-of-ones-own/). A domain of one's own is exactly like a room of one's own but only its digital. Carrd.co provides a simple and easy to use graphical user interface for creating amazing one-page sites for everything. Carrd.co has plenty of templates to get you started or you can DIY. Personally I use **carrd.co pro standard** all the time because it lets you bring and use your own domain name.  The only downside of *carrd.co pro lite* is you cant use your own domain name you do get a free subdomain name. Your options are: "carrd.co", "crd.co", or "uwu.ai". UWU is an emoticon depicting cuteness overload. Carrd.co replaces: about.me, flavors.me, linkin.bio, linktr.ee, or whatever leadpage software you are running. Nine times out of ten Carrd also replaces WordPress, Wix, and Squarespace. Most of the time all a person needs is a snazzy one page website. Still not convinced to try [Carrd.co](https://try.carrd.co/yfsyxjl3)? Here are some samples from my consulting clients:
+Carrd.co is the best \#nocode utility out there. It is great for academics, professionals, and anyone who needs [a domain of one's own](https://www.wired.com/insights/2012/07/a-domain-of-ones-own/). A domain of one's own is exactly like a room of one's own but only its digital. Carrd.co provides a simple and easy to use graphical user interface for creating amazing one-page sites for everything. Carrd.co has plenty of templates to get you started or you can DIY. Personally I use **carrd.co pro standard** all the time because it lets you bring and use your own domain name.  The only downside of *carrd.co pro lite* is you cant use your own domain name you do get a free subdomain name. Your options are: "carrd.co", "crd.co", or "uwu.ai". UWU is an emoticon depicting cuteness overload. Carrd.co replaces: about.me, flavors.me, linkin.bio, linktr.ee, or whatever leadpage software you are running. Nine times out of ten Carrd also replaces WordPress, Wix, and Squarespace. Most of the time all a person needs is a snazzy one page website. Still not convinced to try [Carrd.co](https://try.carrd.co/yfsyxjl3)? Here are some samples from my consulting clients:
   * [Kaitlyn Starr Brett](http://kaitlynstarbrett.com/)
   * [The Mid-Geek Crisis](http://kaitlynstarbrett.com/)
   * [Coin-Op Collective](https://www.coinop-collective.com/). The whole collective runs on nostalgia and carrd.co
@@ -49,21 +49,23 @@ Sometimes fast isn't fast enough. When you need to speed up your website try Bun
   - name.com (domain name)
   - Google GSuite (email)
   - Github (codebase + hosting)
-  - Jekyll (static site generator)
+  - [Jekyll (static site generator)](http://jekyllrb.com/)
   - Mac Apps
     - Terminal
     - [Atom text editor](https://atom.io/)
     - Sublime Text 3
     - Safari Technology Preview
     -  Firefox Developer Edition
+
 #### Static Site client stack
   - name.com (domain name)
   - Google GSuite (email)
   - Github (codebase)
   - Netlify (hosting)
-  - Jekyll (static site generator)
+  - [Jekyll (static site generator)](http://jekyllrb.com/)
   - Terminal
   - [Atom](https://atom.io/)
+
 #### Dynamic site client stack
   - name.com, namcheap.com, hover.com (domain names)
   - Github (Codebase)
