@@ -1,22 +1,23 @@
 ---
 layout: category-post
 title:  "Posters and Flyers"
+excerpt: "Posters and Flyers created for conferences, courses, and lectures."
 date:   2017-10-24
 categories: design
 tag:
-- posters
-- flyers
-- conferences
-- courses
-- lectures
+  - posters
+  - flyers
+  - conferences
+  - courses
+  - lectures
 comments: false
 author: adamdjbrett
-excerpt: 'Posters and Flyers created for conferences, courses, and lectures.'
+
 permalink: /posters-flyers/
 ---
 
 These are posters and flyers that I have designed for conferences, courses and lectures.
-
+<!--more-->
 
 {% include image-gallery.html folder="/assets/img/posters" %}
 
