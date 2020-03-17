@@ -1,6 +1,6 @@
 ---
 layout: category-post
-title:  "Referral Links and discounts"
+title:  "Referral Links and Discount Codes"
 date:   2020-02-20
 excerpt: "discount codes"
 categories: website
