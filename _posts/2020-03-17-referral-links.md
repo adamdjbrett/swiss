@@ -12,7 +12,7 @@ comments: false
 author: adamdjbrett
 ---
 
-## Discount codes and Referral Links.
+
 When consulting on projects and/or working as a developer on a project I use a wide variety of tools in my tech stacks. These resources are all things I have found incredibly helpful for myself and/or clients. If you use any of these links I will earn a discount off of them and so will you.
 <!--more-->
 
