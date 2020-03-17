@@ -3,6 +3,7 @@ layout: category-post
 title:  "Integrating Technology in the Classroom"
 date:   2017-08-16
 excerpt: "Integrating Technology in the Classroom and utilizing technology to enhance teaching."
+excerpt_separator: <!--more-->
 categories: writing
 tag:
 - TAOP
@@ -16,6 +17,7 @@ author: adamdjbrett
 ## Integrating Technology in the Classroom
 by **Adam DJ Brett & Caleb McWhorter**
 August 16, 2017
+<!--more-->
 
 [Google Apps Presentation slides](https://goo.gl/vwqW4A)
 

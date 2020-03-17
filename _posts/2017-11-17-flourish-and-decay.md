@@ -3,6 +3,7 @@ layout: category-post
 title:  "CFP: Flourish and Decay"
 date:   2017-11-17
 excerpt: "The Religion Graduate Organization at Syracuse University announces the 2018 Graduate Student Conference Flourish and Decay: Exploring Religion in Process."
+excerpt_separator: <!--more-->
 categories: website
 tag:
 - CFP
@@ -15,7 +16,7 @@ author: adamdjbrett
 
 ## [Call for Papers](http://religionconference.syr.edu)
 The Religion Graduate Organization and the [Department of Religion at Syracuse University](http://religion.syr.edu/) announce [the 2018 Graduate Student Conference **Flourish and Decay: Exploring Religion in Process on Friday, April 13<sup>th</sup>, 2018.**](http://religionconference.syr.edu)
-
+<!--more-->
 [![Flourish and Decay Decorative Header](/assets/img/tn/flourish-and-decay-header-main-min_tn.jpg)](/assets/img/misc/flourish-and-decay-header-main-min.jpg)
 
 _**Flour·ish**: [‘flǝriSH] (n., v.) growth and development in a good environment; a gesture or to gesture in such a way that attracts attention._

@@ -3,6 +3,7 @@ layout: category-post
 title:  "Selected Syracuse University Policy Statements"
 date:   2017-08-16
 excerpt: "Selected Syracuse University policy statements to help facilitate TA Orientation small group Discussion."
+excerpt_separator: <!--more-->
 categories: writing
 tag:
 - TAOP
@@ -14,6 +15,7 @@ author: adamdjbrett
 ---
 
 These are selected Syracuse University policy documents which might be useful in helping to facilitate leading TA orientation small groups. This list is not exhaustive. Please discuss SU policy with your department and [Syracuse University  Governance, Ethics, Integrity, and Legal Compliance](supolicies.syr.edu).
+<!--more-->
 
 # SU Policy Statements
 [Syracuse University  Governance, Ethics, Integrity, and Legal Compliance](supolicies.syr.edu)

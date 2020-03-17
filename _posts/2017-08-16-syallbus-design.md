@@ -3,6 +3,7 @@ layout: category-post
 title:  "Syllabus Design Resources at Syracuse University"
 date:   2017-08-16
 excerpt: "Selected syllabus design resources at Syracuse University."
+excerpt_separator: <!--more-->
 categories: writing
 tag:
 - TAOP
@@ -18,7 +19,7 @@ author: adamdjbrett
 ### Syllabus Design Workshop
 Small Group &#x23;2
 August 16, 2017
-
+<!--more-->
 ## Syllabus Recommendations
 * Please check with [CLASS](class.syr.edu) and your department to ensure that you are including the required syallbi elements.
 * [Updated Academic Integrity Policy](http://class.syr.edu/academic-integrity/policy/)
