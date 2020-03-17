@@ -12,7 +12,6 @@ tag:
   - lectures
 comments: false
 author: adamdjbrett
-
 permalink: /posters-flyers/
 ---
 
