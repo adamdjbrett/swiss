@@ -2,7 +2,7 @@
 layout: category-post
 title:  "Referral Links and Discount Codes"
 date:   2020-03-17
-excerpt: "discount codes"
+excerpt: "Discount codes for name.com, carrd.co, UpCloud, BunnyCDN and more."
 categories: website
 tag:
 - discount
