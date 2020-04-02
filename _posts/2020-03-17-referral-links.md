@@ -19,7 +19,8 @@ When consulting on projects and/or working as a developer on a project I use a w
 ### Domains
 #### [name.com](https://www.name.com/referral/da845)
 
-[If you need a domain, Name.com is pretty amazing. Become a new customer and we both get $5!](https://www.name.com/referral/da845). Every domain name I own is registered with name.com. I especially appreciate the ability to do ANAME or ALIAS records for DNS. This is incredibly helpful for "serverless" hosting like github, netlify, zeit.co, surge, etc. Name.com's customer support is super fast and responsive. Whenever I have had questions or concerns they have been right there ready to help. Register or transfer your domains with them today.
+[If you need a domain, Name.com is pretty amazing. Become a new customer and we both get $5!](https://www.name.com/referral/da845). Every domain name I own is registered with name.com. I especially appreciate the ability to do ANAME or ALIAS records for DNS. This is incredibly helpful for "serverless" hosting like github, netlify, zeit.co, surge, etc. Name.com's customer support is super fast and responsive. Whenever I have had questions or concerns they have been right there ready to help. Register or transfer your domains with them today. The code is
+`da845`
 
 ### Hosting
 #### [Carrd.co](https://try.carrd.co/yfsyxjl3) for single page websites.
