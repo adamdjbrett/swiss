@@ -17,14 +17,14 @@ When consulting on projects and/or working as a developer on a project I use a w
 <!--more-->
 
 ### Domains
-#### [name.com](https://www.name.com/referral/da845)
+#### [Name.com](https://www.name.com/referral/da845)
 
 [If you need a domain, Name.com is pretty amazing. Become a new customer and we both get $5!](https://www.name.com/referral/da845). Every domain name I own is registered with name.com. I especially appreciate the ability to do ANAME or ALIAS records for DNS. This is incredibly helpful for "serverless" hosting like github, netlify, zeit.co, surge, etc. Name.com's customer support is super fast and responsive. Whenever I have had questions or concerns they have been right there ready to help. Register or transfer your domains with them today. The code is
 `da845`
 
 ### Hosting
 #### [Carrd.co](https://try.carrd.co/yfsyxjl3) for single page websites.
-  * If you visit Carrd.co [through my link](https://try.carrd.co/yfsyxjl3) (or enter your referral code – YFSYXJL3 – directly at checkout) I will earn you 30% of the amount paid towards their next Pro upgrade or renewal. You will also get a discount.
+  * If you visit Carrd.co [through my link](https://try.carrd.co/yfsyxjl3) (or enter your referral code – `YFSYXJL3` – directly at checkout) I will earn you 30% of the amount paid towards their next Pro upgrade or renewal. You will also get a discount.
   * Carrd.co has a bunch of plans my favorite plans are:
       * Carrd.co Pro Standard is $19 a year. That is it just $19 a year.
       * Carrd.co Pro Lite is $9 a year for a more budget friendly plan.
@@ -34,9 +34,13 @@ Carrd.co is the best \#nocode utility out there. It is great for academics, prof
   * [The Mid-Geek Crisis](http://kaitlynstarbrett.com/)
   * [Coin-Op Collective](https://www.coinop-collective.com/). The whole collective runs on nostalgia and carrd.co
 
-#### Cloud VPS Hosting [UpCloud](https://upcloud.com/signup/?promo=63JE42)  
+#### Cloud VPS Hosting
+- [UpCloud](https://upcloud.com/signup/?promo=63JE42)  
 Deploy your first cloud server with [UpCloud](https://upcloud.com/signup/?promo=63JE42) today! [Get a $25 bonus when signing up with this referral link](https://upcloud.com/signup/?promo=63JE42).
-Do you need something more robust than a one page website and are you not ready to go "serverless" with a static site generator like Jekyll or 11ty? Then UpCloud is for you. In my experience UpCloud is way easier to use than Vultr and DigitalOcean. You can deploy a robust and fast WordPress site in about 2-3 minutes based on my experience. You will be able to have WordPress + your bespoke theme up and going quickly. Plus your server bill and hosting will be very reasonable and if you want you can always boost your WordPress site performance by adding a Content Delivery Network (CDN) to take a lhelp your audience get your content even faster.
+Do you need something more robust than a one page website and are you not ready to go "serverless" with a static site generator like Jekyll or 11ty? Then UpCloud is for you. In my experience UpCloud is way easier to use than Vultr and Digital Ocean. You can deploy a robust and fast WordPress site in about 2-3 minutes based on my experience. You will be able to have WordPress + your bespoke theme up and going quickly. Plus your server bill and hosting will be very reasonable and if you want you can always boost your WordPress site performance by adding a Content Delivery Network (CDN) to take a lhelp your audience get your content even faster.
+
+- [Vultr](https://www.vultr.com/?ref=8341661)
+code: `8341661`
 
 ### Content Delivery Network (CDN)
 #### [BunnyCDN](https://bunnycdn.com/?ref=wtn001abeo).
@@ -73,5 +77,6 @@ Sometimes fast isn't fast enough. When you need to speed up your website try Bun
   - name.com, namcheap.com, hover.com (domain names)
   - Github (Codebase)
   - UpCloud (hosting)
+    - [Vultr (hosting)](https://www.vultr.com/?ref=8341661)
   - WordPress (Content Management System)
   - BunnyCDN (Content Delivery Network)
