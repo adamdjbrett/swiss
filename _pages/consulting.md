@@ -6,6 +6,13 @@ permalink: /consulting/
 What is your story?
 As a Ph.D. candidate in religion, I understand the power and importance of stories. I want to help you find and tell your story. With over a decade of Information and Communication Technologies (ICT) experience, I am well equipped to help you articulate your story. Whether you need assistance with course development, digital humanities, event planning, web development, or social media, I am happy to help.
 
+## Tip Jars
+* [Paypal](https://paypal.me/adamdjbrett)
+* [Venmo](https://venmo.com/adamdjbrett)
+* [Cash App](https://cash.app/$AdamDJBrett)
+* [Ko-fi](https://ko-fi.com/adamdjbrett)
+* [buy me a coffee](https://www.buymeacoffee.com/adamdjbrett)
+
 ## Online Course Development
 I am available for consulting on course design, assignments, managing an online course, and integrating various online platforms into the classroom in meaningful ways that enhance the learning goals and outcome of the course.
 
@@ -51,10 +58,12 @@ Social media is a vast landscape filled with every changing platforms. Not every
 For a list of some past clients and projects please take a look at my [CV](/cv/) and past [posters and flyers](/posters-flyers/).
 
 ## Payment Methods
-I accept the following electornic payments:
+I accept the following electronic payments:
   * [Paypal](https://paypal.me/adamdjbrett)
   * [Venmo](https://venmo.com/adamdjbrett)
   * [Cash App](https://cash.app/$AdamDJBrett)
+  * [Ko-fi](https://ko-fi.com/adamdjbrett)
+  * [buy me a coffee](https://www.buymeacoffee.com/adamdjbrett)
 
 ## Get in Touch
 <!-- modify this form HTML and place wherever you want your form -->
