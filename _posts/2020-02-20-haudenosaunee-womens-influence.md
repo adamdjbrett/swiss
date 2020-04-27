@@ -5,11 +5,10 @@ date:   2020-02-20
 excerpt: "Featuring Gloria Steinem, Sally Roesch Wagner, Jeanne Shenandoah, & Betty Lyons"
 excerpt_separator: <!--more-->
 categories: website
-tag:
-- Indigenous
-- Conference
-- Feminism
-- Women's Movement
+tags:
+  - Indigenous
+  - Conference
+  - Feminism
 comments: false
 author: adamdjbrett
 ---

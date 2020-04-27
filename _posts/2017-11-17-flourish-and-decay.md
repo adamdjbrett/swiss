@@ -5,11 +5,11 @@ date:   2017-11-17
 excerpt: "The Religion Graduate Organization at Syracuse University announces the 2018 Graduate Student Conference Flourish and Decay: Exploring Religion in Process."
 excerpt_separator: <!--more-->
 categories: website
-tag:
-- CFP
-- Conference
-- Syracuse
-- Religion
+tags:
+  - CFP
+  - Conference
+  - Syracuse
+  - Religion
 comments: false
 author: adamdjbrett
 ---

@@ -5,9 +5,9 @@ date:   2020-03-17
 excerpt: "Discount codes for name.com, carrd.co, UpCloud, BunnyCDN and more."
 excerpt_separator: <!--more-->
 categories: website
-tag:
-- discount
-- referral
+tags:
+  - discount
+  - referral
 comments: false
 author: adamdjbrett
 ---

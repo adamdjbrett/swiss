@@ -5,11 +5,11 @@ date:   2016-10-24
 excerpt: "Rev. Stephanie Wyatt, Ph.D. studied Hebrew Bible (Old Testament) at Brite Divinity School. Her dissertation is Widows in the Memories of Biblical Israel."
 excerpt_separator: <!--more-->
 categories: website
-tag:
-- pastor
-- teacher
-- portfolio
-- website
+tags:
+  - pastor
+  - teacher
+  - portfolio
+  - website
 comments: false
 author: adamdjbrett
 ---

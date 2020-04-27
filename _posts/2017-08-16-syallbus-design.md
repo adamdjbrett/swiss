@@ -5,11 +5,11 @@ date:   2017-08-16
 excerpt: "Selected syllabus design resources at Syracuse University."
 excerpt_separator: <!--more-->
 categories: website
-tag:
-- TAOP
-- technology
-- syllabus
-- classroom
+tags:
+  - TAOP
+  - technology
+  - syllabus
+  - classroom
 comments: false
 author: adamdjbrett
 ---

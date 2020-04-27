@@ -5,11 +5,11 @@ date:   2020-03-17
 excerpt: "The National Association of Baptist Professors of Religion is a community of teaching scholars."
 excerpt_separator: <!--more-->
 categories: website
-tag:
-- NABPR
-- baptist
-- academic
-- website
+tags:
+  - NABPR
+  - baptist
+  - academic
+  - website
 comments: false
 author: adamdjbrett
 ---
