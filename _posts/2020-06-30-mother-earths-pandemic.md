@@ -3,7 +3,6 @@ title: "Mother Earth‘s Pandemic: The Doctrine of Discovery"
 author: adamdjbrett
 excerpt: "This conference will connect the dots between our current pandemic, environmental devastation, the Doctrine of Discovery, and a way forward."
 date: 2020-06-30 18:15:09
-image: /assets/img/Broken-Treaties-Brandon-Lazore-Web-credit.jpg
 categories:
   - Event
   - Education
@@ -16,6 +15,9 @@ tags:
 > “Peace can only be attained when human beings live in proper relationship to the natural world” ~Tadodaho of the Haudenosaunee Confederacy, Sid Hill
 
 > “The pandemic gives us all an opportunity to be at home and reflect on what we have done and where we are going. It is an opportunity for Mother Earth to breath, rest and recover.” ~Jake Haiwhagai'i Edwards, Onondaga Nation citizen
+
+["Photo credit: Broken Treaties by **Brandon Lazore**"](/assets/img/Broken-Treaties-Brandon-Lazore-Web-credit.jpg)
+
 
 ## Event Details
 
