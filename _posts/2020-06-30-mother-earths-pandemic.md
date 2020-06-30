@@ -16,7 +16,7 @@ tags:
 
 > “The pandemic gives us all an opportunity to be at home and reflect on what we have done and where we are going. It is an opportunity for Mother Earth to breath, rest and recover.” ~Jake Haiwhagai'i Edwards, Onondaga Nation citizen
 
-["Photo credit: Broken Treaties by **Brandon Lazore**"](/assets/img/Broken-Treaties-Brandon-Lazore-Web-credit.jpg)
+!["Photo credit: Broken Treaties by **Brandon Lazore**"](/assets/img/Broken-Treaties-Brandon-Lazore-Web-credit.jpg)
 
 
 ## Event Details
