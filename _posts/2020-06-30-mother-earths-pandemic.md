@@ -19,7 +19,6 @@ tags:
 [!["Photo credit: Broken Treaties by **Brandon Lazore**"](/assets/img/Broken-Treaties-Brandon-Lazore-Web-credit.jpg)](/assets/img/Broken-Treaties-Brandon-Lazore-Web-credit.jpg)
 
 
-
 ## Event Details
 
 *   **Title**: Mother Earth’s Pandemic: The Doctrine of Discovery
