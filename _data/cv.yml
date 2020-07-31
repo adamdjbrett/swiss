@@ -10,7 +10,7 @@ sections:
   - education
   - skills
   - exams
-  - teaching
+  -
   - experience
   - activities
   - service
@@ -70,6 +70,7 @@ data:
     - __Syracuse University, Instructor__
       - 2020-Forthcoming: Religion and Sports, Online (Religion 103)
       - 2020-Forthcoming: Religion and Science Fiction, Online (Religion 320)
+      - 2020-Summer: Religion and Sports, Online (Religion 103)
       - 2019-Summer: Religion and Sports, Online (Religion 103)
       - 2015-Fall: Introduction to the Study of Religion (Religion 120)
       - 2015-Spring: Introduction to the Study of Religion (Religion 120)
