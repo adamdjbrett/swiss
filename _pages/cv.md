@@ -4,6 +4,6 @@ title: CV
 permalink: /cv/
 cv:
     download_links:
-        PDF: /assets/pdfs/adamdjbrett-cv-2019-web.pdf
+        PDF: /assets/pdfs/adamdjbrett-cv-2020-web.pdf
 ---
 {% include cv.html %}
