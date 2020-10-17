@@ -32,7 +32,7 @@
     {% endif %}
 
     <header>
-        <img class="cv-photo" src="{{cv.photo}}" alt="my photo" />
+        <img class="cv-photo u-photo" src="{{cv.photo}}" alt="my photo" />
         <h1 class="cv-name">{{cv.name}}</h1>
         <span class="text-muted">{{cv.tagline}}</span>
     </header>
@@ -40,7 +40,7 @@
     <section class="cv-basic-info">
          <span class="cv-basic-info-item"><span class="icon-at" aria-hidden="true"></span>&nbsp;&nbsp;<a href="mailto:{{cv.email}}">{{cv.email}}</a></span>
          <span class="cv-basic-info-item"><span class="icon-phone" aria-hidden="true"></span>&nbsp;&nbsp;{{cv.phone}}</span>
-         <span class="cv-basic-info-item"><span class="icon-cursor" aria-hidden="true"></span>&nbsp;&nbsp;<a href="{{cv.website}}">{{cv.website}}</a></span>
+         <span class="cv-basic-info-item"><span class="icon-cursor" aria-hidden="true"></span>&nbsp;&nbsp;<a href="{{cv.website}}" rel="me" class="u-url">{{cv.website}}</a></span>
          <span class="cv-basic-info-item"><span class="icon-map-pin-fill" aria-hidden="true"></span>&nbsp;&nbsp;{{cv.location}}</span>
      </section>
 
