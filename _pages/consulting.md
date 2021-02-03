@@ -13,6 +13,9 @@ As a Ph.D. candidate in religion, I understand the power and importance of stori
 * [Ko-fi](https://ko-fi.com/adamdjbrett)
 * [buy me a coffee](https://www.buymeacoffee.com/adamdjbrett)
 
+## Carrd.co Discount Code.
+* [Carrd Referral Code](https://try.carrd.co/yfsyxjl3)
+
 ## Online Course Development
 I am available for consulting on course design, assignments, managing an online course, and integrating various online platforms into the classroom in meaningful ways that enhance the learning goals and outcome of the course.
 
