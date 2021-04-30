@@ -29,7 +29,7 @@ When consulting on projects and/or working as a developer on a project I use a w
       * Carrd.co Pro Standard is $19 a year. That is it just $19 a year.
       * Carrd.co Pro Lite is $9 a year for a more budget friendly plan.
   * [The Mid-Geek Crisis Carrd discount code](http://try.carrd.co/midgeekcrisis) is: `MIDGEEKCRISIS`.
-  * [My Carrd discount code](https://try.carrd.co/yfsyxjl3) is: `yfsyxjl3`.
+  * [My Carrd discount code](https://try.carrd.co/yfsyxjl3) is: `YFSYXJL3`.
 
 
 Carrd.co is the best \#nocode utility out there. It is great for academics, professionals, and anyone who needs [a domain of one's own](https://www.wired.com/insights/2012/07/a-domain-of-ones-own/). A domain of one's own is exactly like a room of one's own but only its digital. Carrd.co provides a simple and easy to use graphical user interface for creating amazing one-page sites for everything. Carrd.co has plenty of templates to get you started or you can DIY. Personally I use **carrd.co pro standard** all the time because it lets you bring and use your own domain name.  The only downside of *carrd.co pro lite* is you cant use your own domain name you do get a free subdomain name. Your options are: "carrd.co", "crd.co", or "uwu.ai". UWU is an emoticon depicting cuteness overload. Carrd.co replaces: about.me, flavors.me, linkin.bio, linktr.ee, or whatever leadpage software you are running. Nine times out of ten Carrd also replaces WordPress, Wix, and Squarespace. Most of the time all a person needs is a snazzy one page website. Still not convinced to try [Carrd.co](https://try.carrd.co/yfsyxjl3)? Here are some samples from my consulting clients:
