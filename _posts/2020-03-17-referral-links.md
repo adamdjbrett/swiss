@@ -24,11 +24,10 @@ When consulting on projects and/or working as a developer on a project I use a w
 
 ### Hosting
 #### [Carrd.co](https://try.carrd.co/yfsyxjl3) for single page websites.
-  * If you visit Carrd.co [through my link](https://try.carrd.co/yfsyxjl3) (or enter your referral code – `YFSYXJL3`  or `MIDGEEKCRISIS` – directly at checkout) I will earn you 30% of the amount paid towards their next Pro upgrade or renewal. You will also get a discount.
+  * If you visit Carrd.co [through my link](https://try.carrd.co/yfsyxjl3) (or enter your referral code – `YFSYXJL3` – directly at checkout) I will earn you 30% of the amount paid towards their next Pro upgrade or renewal. You will also get a discount.
   * Carrd.co has a bunch of plans my favorite plans are:
       * Carrd.co Pro Standard is $19 a year. That is it just $19 a year.
       * Carrd.co Pro Lite is $9 a year for a more budget friendly plan.
-  * [The Mid-Geek Crisis Carrd discount code](http://try.carrd.co/midgeekcrisis) is: `MIDGEEKCRISIS`.
   * [My Carrd discount code](https://try.carrd.co/yfsyxjl3) is: `YFSYXJL3`.
 
 
