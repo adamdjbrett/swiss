@@ -124,6 +124,7 @@ data:
         - International Research Associate
           - American Indian Law Alliance ([aila.ngo](https://aila.ngo))
         - Freelance Web Developer
+          - Pastoral Imagination Project ([pastoralimagination.com](https://pastoralimagination.com/))
           - Look Now Project ([looknowproject.org](https://www.looknowproject.org/))
           - Galen’s Games ([galensgames.com](https://www.galensgames.com/))
           - Michelle Cronin ([michellecronin.net](https://michellecronin.net))
@@ -163,7 +164,7 @@ data:
           - Alexander Owen Smith ([alexanderosmith.com](https://www.alexanderosmith.com/))
           - Bleak Theology ([bleaktheology.com](http://www.bleaktheology.com))
         - Website Advisor and Event Coordination
-          - IAWE ([iawe.syr.edu](http://iawe.syr.edu))
+          - IAWE ([iawe.syr.edu](https://web.archive.org/web/20210924175119/http://web.archive.org/screenshot/http://iawe.syr.edu/))
         - Webmaster and Social Media Coordinator
           - Flourish and Decay: Exploring Religion in Process: Syracuse University, Religion Graduate Student Conference
       - __2017__
@@ -258,7 +259,7 @@ data:
   publications:
     title: Publications
     text: |
-      - Journal Article: "'Reavers aint men [_sic_]&mdash;0r they forgot _how_ to be:' Teaching Religion in Science Fiction," _Perspectives in Religious Studies_ 46, no. 4 (Winter 2019): 421-430 [via ATLA](http://search.ebscohost.com/login.aspx?direct=true&db=rfh&AN=ATLAi5IE200229000408&site=ehost-live).
+      - Journal Article: "'Reavers aint men [_sic_]&mdash;Or they forgot _how_ to be:' Teaching Religion in Science Fiction," _Perspectives in Religious Studies_ 46, no. 4 (Winter 2019): 421-430 [via ATLA](http://search.ebscohost.com/login.aspx?direct=true&db=rfh&AN=ATLAi5IE200229000408&site=ehost-live).
       - Book Review “Religion and Culture: Contemporary Practices and Perspectives.” _Perspectives in Religious Studies_ 42,  no. 1 (Spr 2015): 92–94. [via ATLA](http://search.ebscohost.com/login.aspx?direct=true&db=rfh&AN=ATLAiC9Y160711000197&site=ehost-live.)
       - Book Review “The world's religions: a contemporary reader.” _Perspectives in Religious Studies_ 42,  no. 1 (Spr 2015): 92–94. [via ATLA](http://search.ebscohost.com/login.aspx?direct=true&db=rfh&AN=ATLAiC9Y160711000198&site=ehost-live.)
       - Book Review _Religious and Sexual Nationalisms in Central and Eastern Europe — Gods, Gays and Governments_, written by Sremac, Srdjan and R. Ruard Ganzevoort (eds.) (2015), _Journal of Empirical Theology_, 29(1), 133-134. [@doi: 10.1163/15709256-12341335](https://doi.org/10.1163/15709256-12341335).
@@ -352,7 +353,7 @@ data:
         - HTML5/CSS/JS
         - JSON-LD and Schema.org
         - WordPress
-        - Static Sites
+        - Static Sites (Jekyll, 11ty)
         - Linux (Ubuntu)
         - Google Search Console
         - Google Analytics
