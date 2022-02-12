@@ -27,7 +27,7 @@ data:
   education:
     title: Education
     items:
-      - 2011–present: |
+      - : |
           __Ph.D. Candidate__, Religion. Syracuse University, Department of Religion.<br />
           Dissertation: _Fundamentalists and Superheroes: The Failure of the Messianic in American Culture (1900-45)_.
       - 2014: |
@@ -186,8 +186,9 @@ data:
       - __2012-16__
         - Graduate Assistant, Belfer Audio Archive, Special Collections, Syracuse University Libraries, Summers.
       - __2011–present__
-        - Teaching Assistant, Department of Religion, Syracuse University.
         - Social Media Coordinator & Listserv Manager, Syracuse University Department of Religion ([thecollege.syr.edu/religion](https://thecollege.syr.edu/religion/))
+      - __2011–2020__
+        - Teaching Assistant, Department of Religion, Syracuse University.
       - __2008-11__
         - Webmaster and Social Media Manager, _Unfinished Lives: Remembering LGBT Hate Crime Victims_ a book and blog by Dr Steve Sprinkle ([unfinishedlivesblog.com](https://unfinishedlivesblog.com/)).
       - __2008–present__
@@ -271,6 +272,8 @@ data:
   presentations:
     title: Academic Presentations
     text: |
+      - __2021__
+        - “The Protestantization of the Doctrine of Discovery in Colonial America,” Church History panel, 2021 NABPR Annual Meeting, Online.
       - __2019__
         - “The Importance of Repudiating the Doctrine of Discovery for Baptists,” Church History panel, 2019 NABPR Annual Meeting, Campbell University, Raleigh, NC.
       - __2018__
@@ -308,7 +311,7 @@ data:
   awards:
     title: Academic Honors and Awards
     text: |
-      - __2010–present__
+      - __2010–2020__
         - Graduate Teaching Assistantship (full tuition and stipend). Syracuse University Department of Religion.
       - __2013__
         - Travel Grant and Funding for the Global Ecumenical Theological Institute of the World Council of Churches, Tenth Assembly of the World Council of Churches, Busan, Korea, 2013.
