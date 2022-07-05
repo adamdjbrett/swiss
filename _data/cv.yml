@@ -1,6 +1,6 @@
 name: Adam DJ Brett
 photo: /assets/img/adam-dj-brett-256x256-min.jpg
-tagline: Ph.D. Candidate in the Syracuse University Department of Religion. My pronouns are he/him.
+tagline: Ph.D. in Religion from Syracuse University Department of Religion. he/him.
 email: adam@adamdjbrett.com
 phone: <a href="tel:+18177600292">817.760.0292</a>
 website: https://adamdjbrett.com
@@ -27,8 +27,8 @@ data:
   education:
     title: Education
     items:
-      - 2011-2022: |
-          __Ph.D. Candidate__, Religion. Syracuse University, Department of Religion.<br />
+      - 2011-Jul 1, 2022: |
+          __Ph.D.__, Religion. Syracuse University, Department of Religion.<br />
           Dissertation: _Catastrophic Christianity: An Iconological study of the Messianic Idea in American Protestant Christianity Circa 1900-1940_.
       - 2014: |
           __M.Phil__, Religion. Syracuse University, Department of Religion.
@@ -68,6 +68,8 @@ data:
    title: Teaching Experience
    text: |
     - __Syracuse University, Instructor__
+      - 2022-Summer: Religion and Sports, Online (Religion 103)
+      - 2022-Summer: Religions of the World, Online (Religion 101)
       - 2022-Spring: Religion and Sports, Online (Religion 103)
       - 2021-Winter: Religions of the World, Online (Religion 101)
       - 2021-Fall: Religion and Sports, Online (Religion 103)
@@ -113,17 +115,8 @@ data:
       - __2019-Summer__
         - Web Production Specialist
           - Syracuse University College of Arts and Sciences ([thecollege.syr.edu](https://thecollege.syr.edu))
-        - Web Consultant
-          - Women of Italian and Syracuse Heritage, CNY (WISHCNY) ([wishcny.org](https://www.wishcny.org/))
-          - Alexander O. Smith ([alexanderosmith.com](https://www.alexanderosmith.com/))
-          - The Coin-Op Collective ([coinop-collective.com](https://www.coinop-collective.com/))
-          - Jordan Brady Loewen ([jordanbradyloewen.com](https://www.jordanbradyloewen.com/))
-          - Kaitlyn Star Brett ([kaitlynstarbrett.com](http://kaitlynstarbrett.com/))
-          - The Mid-Geek Crisis ([themidgeekcrisis.com](https://themidgeekcrisis.com/))
-          - Bleak Theology ([bleaktheology.com](http://bleaktheology.com))
-          - Jewish Philosophy Place ([jewishphilosophyplace.com](https://jewishphilosophyplace.com/))
-      - __2018-present__
-        - International Research Associate
+      - __2016-present__
+        - International Research Associate, (2016-present)
           - American Indian Law Alliance ([aila.ngo](https://aila.ngo))
         - Freelance Web Developer
           - Volunteer V8 Ford Club ([volunteerv8.com](https://volunteerv8.com/))
@@ -152,21 +145,28 @@ data:
             - Three Minute Ministry Mentor ([threeminuteministrymentor.org](http://threeminuteministrymentor.org))
               - Three Minute Ministry Mentor Podcast ([podcast.3minuteministrymentor.org](https://podcast.3minuteministrymentor.org/))
           - Doctrine of Discovery ([doctrineofdiscovery.org](https://doctrineofdiscovery.org))
+            - Mapping the Doctrine of Discovery Prodcast ([podcast.doctrineofdiscovery.org](https://podcast.doctrineofdiscovery.org))
           - Indigenous Values Initiative ([indigenousvalues.org](https://indigenousvalues.org))
           - West Baptist Church, Oswego, NY ([westbaptistchurch.org](https://westbaptistchurch.org))
-          - Quotidian ([quotidian.pub](https://www.quotidian.pub/))
-        - Webmaster
+          - David J. Brett ([davidbrett.im](http://davidbrett.im))
+          - Quotidian ([quotidian.pub](https://www.quotidian.pub/)) 2019-2020
+          - Religion Call for Papers ([relcfp.com](https://relcfp.com)), 2011-2022
+          - Web Consultant
+            - Dallas Nostaligic Gaming and Culture Club ([https://dallasnostalgic.club/](https://dallasnostalgic.club/))
+            - Women of Italian and Syracuse Heritage, CNY (WISHCNY) ([wishcny.org](https://www.wishcny.org/))
+            - Alexander O. Smith ([alexanderosmith.com](https://www.alexanderosmith.com/))
+            - The Coin-Op Collective ([coinop-collective.com](https://www.coinop-collective.com/))
+            - Jordan Brady Loewen ([jordanbradyloewen.com](https://www.jordanbradyloewen.com/))
+            - Kaitlyn Star Brett ([kaitlynstarbrett.com](http://kaitlynstarbrett.com/))
+            - The Mid-Geek Crisis ([themidgeekcrisis.com](https://themidgeekcrisis.com/))
+            - Bleak Theology ([bleaktheology.com](http://bleaktheology.com))
+            - Jewish Philosophy Place ([jewishphilosophyplace.com](https://jewishphilosophyplace.com/))
+      - __2018__
+        - Webmaster (2015-2018)
           - Syracuse University, Department of Religion ([thecollege.syr.edu/religion](https://thecollege.syr.edu/religion/))
           - Syracuse University, Jewish Studies ([jsp.syr.edu](http://jsp.syr.edu))
-      - __2018__
-        - RCDP: The Realists & Responsible Caring Congolese Diaspora Patriots ([rcdp.co](https://web.archive.org/web/20190425044742/https%3A%2F%2Frcdp.co%2F))
-        - Jugaad: A Material Religions Project. This project has concluded.
-        - Syracuse University Women in Science and Engineering  ([suwise.syr.edu](http://suwise.syr.edu))
-        - David J. Brett ([davidbrett.im](http://davidbrett.im))
-        - Web Advisor
-          - Alexander Owen Smith ([alexanderosmith.com](https://www.alexanderosmith.com/))
-          - Bleak Theology ([bleaktheology.com](http://www.bleaktheology.com))
-        - Website Advisor and Event Coordination
+          - Syracuse University Women in Science and Engineering, Summer 2018 ([suwise.syr.edu](http://suwise.syr.edu))
+        - Website Advisor and Event Coordination (Summer 2018)
           - IAWE ([iawe.syr.edu](https://web.archive.org/web/20210924175119/http://web.archive.org/screenshot/http://iawe.syr.edu/))
         - Webmaster and Social Media Coordinator
           - Flourish and Decay: Exploring Religion in Process: Syracuse University, Religion Graduate Student Conference
@@ -189,18 +189,15 @@ data:
         - Social Media Coordinator & Listserv Manager, Syracuse University Department of Religion ([thecollege.syr.edu/religion](https://thecollege.syr.edu/religion/))
       - __2011–2020__
         - Teaching Assistant, Department of Religion, Syracuse University.
-      - __2008-11__
-        - Webmaster and Social Media Manager, _Unfinished Lives: Remembering LGBT Hate Crime Victims_ a book and blog by Dr Steve Sprinkle ([unfinishedlivesblog.com](https://unfinishedlivesblog.com/)).
-      - __2008–present__
+      - __2008–2020__
         - Webmaster, World Conference of Associated Theological Institutions (WOCATI). ([wocati.org](https://wocati.org)).
       - __2008-11__
+        - Webmaster and Social Media Manager, _Unfinished Lives: Remembering LGBT Hate Crime Victims_ a book and blog by Dr Steve Sprinkle ([unfinishedlivesblog.com](https://unfinishedlivesblog.com/)).
         - Graduate Assistant, Prof. Dr. Namsoon Kang, Brite Divinity School.
         - Student Assistant, Technology Resources, Brite Divinity School.
       - __2004-06__
         - Web Administrator, Warner University
-      - __2004-present__
         - Freelance Web Development and Consulting
-          - Web Developer and Maintainer, Religion Call for Papers ([relcfp.com](https://relcfp.com)), 2011-present
           - Web Developer, Suzy James Photography, 2004-06
           - Web Developer, Kay Miller, Piano, 2004-06
 
@@ -341,11 +338,11 @@ data:
         - 2010: Workshop participant. Learning Goals for Teaching the Bible in the Liberal Arts Curriculum, Wabash Center for Teaching and Learning in Theology and Religion, Society of Biblical Literature, Atlanta, GA., November 20, 2010.
 
   languages:
-    title: Languages
+    title: Languages (Reading Knowledge)
     text: |
-      - French (Reading Knowledge)
-      - German (Reading Knowledge)
-      - Koine Greek (Reading Knowledge)
+      - French
+      - German
+      - Koine Greek
 
   associations:
       title: Professional Associations
