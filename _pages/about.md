@@ -16,6 +16,7 @@ Adam DJ Brett earned his Ph.D. in religion from Syracuse University July 2022.  
 ## Courses taught
   * Religion and Science Fiction
   * Religion and Sports
+  * Religions of the World
   * Introduction to the Study of Religion
   * New Testament
 
@@ -23,3 +24,5 @@ Adam DJ Brett earned his Ph.D. in religion from Syracuse University July 2022.  
   * <adam@adamdjbrett.com>
   * [@__adjb](https://twitter.com/__adjb)
   * [github](https://github.com/adamdjbrett/)
+  * <a rel="me" href="https://hcommons.social/@adjb">HCommons Mastodon Instance</a>
+
