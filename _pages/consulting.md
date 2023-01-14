@@ -4,7 +4,7 @@ title: Consulting
 permalink: /consulting/
 ---
 What is your story?
-As a Ph.D. candidate in religion, I understand the power and importance of stories. I want to help you find and tell your story. With over a decade of Information and Communication Technologies (ICT) experience, I am well equipped to help you articulate your story. Whether you need assistance with course development, digital humanities, event planning, web development, or social media, I am happy to help.
+As a Ph.D. in religion, I understand the power and importance of stories. I want to help you find and tell your story. With over a decade of Information and Communication Technologies (ICT) experience, I am well equipped to help you articulate your story. Whether you need assistance with course development, digital humanities, event planning, web development, or social media, I am happy to help.
 
 ## Tip Jars
 * [Paypal](https://paypal.me/adamdjbrett)
