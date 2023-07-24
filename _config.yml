@@ -60,6 +60,7 @@ plugins:
   -  jekyll-include-cache
   -  jekyll-redirect-from
   -  jemoji
+  -  jekyll-feed
 
 sass:
     sass_dir: _sass
@@ -67,7 +68,6 @@ sass:
 
 include:
   - _pages
-
 
 exclude:
   - CHANGELOG.MD
