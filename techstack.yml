@@ -1,11 +1,11 @@
 repo_name: adamdjbrett/adamdjbrett.github.io
-report_id: 81eb12c4db5d7a8643066a93002c7741
+report_id: 1f548ef3ec3cdc73ff536b0b103b4472
 repo_type: Public
-timestamp: '2023-11-15T03:24:02+00:00'
+timestamp: '2023-12-14T10:40:42+00:00'
 requested_by: adamdjbrett
 provider: github
 branch: master
-detected_tools_count: 12
+detected_tools_count: 18
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -36,6 +36,17 @@ tools:
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
   detection_source: Repo Metadata
+- name: pgvector
+  description: Open-source vector similarity search for Postgres
+  website_url: https://github.com/pgvector/pgvector/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source: LICENSE.txt
+  last_updated_by: broccolini
+  last_updated_on: 2016-09-13 04:53:12.000000000 Z
 - name: Bundler
   description: 'A consistent environment for tracking and installing  gems and versions '
   website_url: http://bundler.io
@@ -67,6 +78,15 @@ tools:
   detection_source: jekyll-swiss.gemspec
   last_updated_by: broccolini
   last_updated_on: 2016-09-13 04:53:12.000000000 Z
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: _includes/cv.html
+  last_updated_by: adamdjbrett
+  last_updated_on: 2019-08-12 03:59:26.000000000 Z
 - name: Jekyll
   description: Blog-aware, static site generator in Ruby
   website_url: http://jekyllrb.com/
@@ -77,10 +97,21 @@ tools:
   category: Application Utilities
   sub_category: Static Site Generators
   image_url: https://img.stackshare.io/service/1114/ad968c1615d956e800fa36494314f48c.jpeg
-  detection_source_url: jekyll-swiss.gemspec
+  detection_source_url: https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/jekyll-swiss.gemspec
   detection_source: Gemfile
   last_updated_by: Adam DJ Brett
   last_updated_on: 2023-07-24 14:18:50.000000000 Z
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source: LICENSE.txt
+  last_updated_by: broccolini
+  last_updated_on: 2016-09-13 04:53:12.000000000 Z
 - name: jekyll-feed
   description: A Jekyll plugin to generate an Atom feed of your Jekyll posts
   package_url: https://rubygems.org/jekyll-feed
@@ -93,6 +124,18 @@ tools:
   detection_source: Gemfile
   last_updated_by: Adam DJ Brett
   last_updated_on: 2023-07-24 14:18:50.000000000 Z
+- name: jekyll-gist
+  description: Liquid tag for displaying GitHub Gists in Jekyll sites
+  package_url: https://rubygems.org/jekyll-gist
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: Gemfile
+  last_updated_by: Adam DJ Brett
+  last_updated_on: 2023-07-24 14:18:50.000000000 Z
 - name: jekyll-paginate
   description: Built-in Pagination Generator for Jekyll
   package_url: https://rubygems.org/jekyll-paginate
@@ -102,6 +145,18 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19371/default_ac0591cdb829f62a4300d942f96aea1bb642351d.png
+  detection_source: Gemfile
+  last_updated_by: Adam DJ Brett
+  last_updated_on: 2023-07-24 14:18:50.000000000 Z
+- name: jekyll-redirect-from
+  description: Seamlessly specify multiple redirection URLs for your pages and posts
+  package_url: https://rubygems.org/jekyll-redirect-from
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
   detection_source: Gemfile
   last_updated_by: Adam DJ Brett
   last_updated_on: 2023-07-24 14:18:50.000000000 Z
@@ -130,6 +185,18 @@ tools:
   detection_source: Gemfile
   last_updated_by: Adam DJ Brett
   last_updated_on: 2023-07-24 14:18:50.000000000 Z
+- name: jemoji
+  description: GitHub-flavored emoji plugin for Jekyll
+  package_url: https://rubygems.org/jemoji
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-03-13 03:50:30.000000000 Z
 - name: rake
   description: Rake is a Make-like program implemented in Ruby
   package_url: https://rubygems.org/rake
@@ -140,7 +207,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18812/default_f582e4648f4682adb72d2b201218cda7f8e894ac.png
-  detection_source_url: jekyll-swiss.gemspec
+  detection_source_url: https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/jekyll-swiss.gemspec
   detection_source: jekyll-swiss.gemspec
   last_updated_by: broccolini
   last_updated_on: 2016-09-13 04:53:12.000000000 Z
