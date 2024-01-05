@@ -1,7 +1,8 @@
 repo_name: adamdjbrett/adamdjbrett.github.io
-report_id: 1f548ef3ec3cdc73ff536b0b103b4472
+report_id: 81eb12c4db5d7a8643066a93002c7741
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T10:40:42+00:00'
+timestamp: '2024-01-05T08:42:33+00:00'
 requested_by: adamdjbrett
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/adamdjbrett/adamdjbrett.github.io
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/adamdjbrett/adamdjbrett.github.io
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/adamdjbrett/adamdjbrett.github.io
   detection_source: Repo Metadata
 - name: pgvector
   description: Open-source vector similarity search for Postgres
@@ -44,6 +48,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/LICENSE.txt
   detection_source: LICENSE.txt
   last_updated_by: broccolini
   last_updated_on: 2016-09-13 04:53:12.000000000 Z
@@ -55,6 +60,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/2988/4e77LXIo_400x400.png
+  detection_source_url: https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/jekyll-swiss.gemspec
   detection_source: jekyll-swiss.gemspec
   last_updated_by: broccolini
   last_updated_on: 2016-09-13 04:53:12.000000000 Z
@@ -66,6 +72,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/adamdjbrett/adamdjbrett.github.io
   detection_source: Repo Metadata
 - name: RubyGems
   description: Easily download, install, and use ruby software packages on your system
@@ -75,6 +82,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/jekyll-swiss.gemspec
   detection_source: jekyll-swiss.gemspec
   last_updated_by: broccolini
   last_updated_on: 2016-09-13 04:53:12.000000000 Z
@@ -84,6 +92,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/_includes/cv.html
   detection_source: _includes/cv.html
   last_updated_by: adamdjbrett
   last_updated_on: 2019-08-12 03:59:26.000000000 Z
@@ -109,6 +118,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/LICENSE.txt
   detection_source: LICENSE.txt
   last_updated_by: broccolini
   last_updated_on: 2016-09-13 04:53:12.000000000 Z
@@ -121,6 +131,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19149/default_b0a1033a29112f6f50b1dd3157e5fbf94dd2778a.png
+  detection_source_url: https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: Adam DJ Brett
   last_updated_on: 2023-07-24 14:18:50.000000000 Z
@@ -133,6 +144,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: Adam DJ Brett
   last_updated_on: 2023-07-24 14:18:50.000000000 Z
@@ -145,6 +157,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19371/default_ac0591cdb829f62a4300d942f96aea1bb642351d.png
+  detection_source_url: https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: Adam DJ Brett
   last_updated_on: 2023-07-24 14:18:50.000000000 Z
@@ -157,6 +170,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: Adam DJ Brett
   last_updated_on: 2023-07-24 14:18:50.000000000 Z
@@ -170,6 +184,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19137/default_302643c2b99caa1c440c0d4aa23d4230e1cc78e3.png
+  detection_source_url: https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: Adam DJ Brett
   last_updated_on: 2023-07-24 14:18:50.000000000 Z
@@ -182,6 +197,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19321/default_31ccb7684f50eae9f0c40cb9965cc32299f8935e.png
+  detection_source_url: https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: Adam DJ Brett
   last_updated_on: 2023-07-24 14:18:50.000000000 Z
@@ -194,6 +210,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: adamdjbrett
   last_updated_on: 2020-03-13 03:50:30.000000000 Z
