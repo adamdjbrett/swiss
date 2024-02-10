@@ -27,9 +27,10 @@ data:
   education:
     title: Education
     items:
-      - 2011-2022: |
+      - 2022: |
           __Ph.D.__, Religion. Syracuse University, Department of Religion.<br />
           Dissertation: _Catastrophic Christianity: An Iconological study of the Messianic Idea in American Protestant Christianity Circa 1900-1940_.
+          Advisor: Dr. [Zachary J. Braiterman](https://artsandsciences.syracuse.edu/people/faculty/braiterman-zachary-j/).
       - 2015: |
           __M.Phil__, Religion. Syracuse University, Department of Religion.
       - 2013: |
@@ -49,10 +50,11 @@ data:
     title: Areas of Specialization
     text: |
         - American Religion; American Religious History
+        - Indigenous Studies
         - Critical Theories of Religion
         - Christian Studies and Theology
         - Women's and Gender Studies
-        - Religion, Media, Culture
+        - Religion, Media, and Culture
         - Religion and Science-Fiction
 
   exams:
@@ -68,10 +70,12 @@ data:
    title: Teaching Experience
    text: |
     - __Austin Peay State University, Adjunct Instructor__
+      - 2024-Spring: Religion & The World (Philosophy 2200)
       - 2023-Fall: Religion & The World (Philosophy 2200)
       - 2023-Fall: Western Religions (Philosophy 3300)
       - 2023-Summer: Religion & The World, Online (Philosophy 2200)
     - __Middle Tennessee State University, Adjunct Instructor__
+      - 2024-Spring: Religion and Society (Religious Studies 2030)  
       - 2023-Fall: Introduction to World Religions (Religious Studies 1030)  
     - __Syracuse University, Instructor__
       - 2023-Fall: Religion and Sports, 8-week Online (Religion 103)
@@ -225,6 +229,8 @@ data:
   activities:
     title: Selected Academic and Professional Activities
     text: |
+      - __2023__ "[The Religious Origins of White Supremacy: Johnson v. M’Intosh and the Doctrine of Christian Discovery](https://doctrineofdiscovery.org/blog/conference-schedule/)"
+        - Conference organizing, video editing, closed captioning, Thematic Discussion Group Moderator, panel chair for "New Books in the Study of Domination."
       - __2020__
         - Mother Earth’s Pandemic: The Doctrine of Discovery ([indigenousvalues.org/mother-earths-pandemic/](https://indigenousvalues.org/mother-earths-pandemic/))
           - Conference organizing, video editing, closed captioning, Thematic Discussion Group Moderator
@@ -299,6 +305,8 @@ data:
     title: Academic Presentations
     text: |
       - __2023__
+        - Co-presenter, "International Dimensions of the Doctrine of Discovery Panel III: International Human Rights," part of [The Religious Origins of White Supremacy: Johnson v. M’Intosh and the Doctrine of Christian Discovery](https://doctrineofdiscovery.org/blog/conference-schedule/)
+        - Co-presenter, "Using the Two Row Wampum Method at the Vatican," part of [The Religious Origins of White Supremacy: Johnson v. M’Intosh and the Doctrine of Christian Discovery](https://doctrineofdiscovery.org/blog/conference-schedule/)
         - “Theologies of Domination,” Part of Indigenous Peoples And Religious Modes Of Othering A Comparative History Of Religions Perspective Two Workshops 24 And 30/31 May 2023 in Germany and Norway ([Program](https://doctrineofdiscovery.org/blog/mpi-disco/)).
       - __2022__
         - “The Doctrine of Discovery Podcast and Virtual Onondaga,” co-presented with Philip P. Arnold and Jordan Brady Loewen-Colón, Indigenous Religious Traditions Unit, 2022 American Academic of Religion, Denver, CO.
