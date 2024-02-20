@@ -11,7 +11,7 @@ Acknowledging the singular and unique nature of this gathering Syracuse Universi
 
 Finally this podcast represents the first of many educational resources that will be coming out of this conference which will hopefully be useful not only for challenging the legacy of *Johnson v. M'Intosh* but also dismantling the Doctrine of Christian Discovery, and further challenging white supremacy through understanding its longer history.
 
-## Thank yous
+## Credits
 - Hosts: Mitch and Tanner Randall, Good Faith Media.
 - Executive producers: Mitch Randall, Good Faith Media; Philip P. Arnold and Sandy Bigtree, Indigenous Values Initiative; and Adam DJ Brett, Syracuse University and American Indian Law Alliance.
 - Producer: Cliff Vaughn.
