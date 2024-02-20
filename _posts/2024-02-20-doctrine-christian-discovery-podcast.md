@@ -24,7 +24,7 @@ Toward Our Common Public Life. We appreciate your support.
 
 ## Resources
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/4VnMhbq2UJbu3fdehsQ66I?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://playlist.megaphone.fm/?p=AOOOI2818414790" width="100%" height="482" frameborder="0"></iframe>
 
 -   [Here is the press release](https://goodfaithmedia.org/new-good-faith-media-podcast-highlights-doctrine-of-christian-discovery/)
 -   [Podcast main page](https://goodfaithmedia.org/doctrine-of-christian-discovery/)
