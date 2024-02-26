@@ -1,6 +1,6 @@
 ---
 layout: category-post
-title:  "Volunteer V8 Website wins second place"
+title:  "Volunteer V8 Wins Second Place"
 categories: websites
 ---
 It was an honor to colloboare with Mickey Holton and the [Volunteer V8 Ford Club](https://volunteerv8.com/) on their website. Using their comments and feedback I built them an image driven, easy to use and maintain WordPress website. Our hardwork was honored by the national V8 car club organization which gave our website a second place ribbon for our sites layout, event information, and photo galleries. I am honored to have designed and built an award winning site.
