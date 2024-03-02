@@ -3,7 +3,7 @@ layout: category-post
 title:  "Mapping the Doctrine of Discovery Podcast"
 categories: writing
 ---
-[![Mapping the Doctrine of Discovery Cover Art](assets/img/mapping-doctrine-of-discovery-favicon.webp)](https://podcast.doctrineofdiscovery.org/about/)
+[![Mapping the Doctrine of Discovery Cover Art](/assets/img/mapping-doctrine-of-discovery-favicon.webp)](https://podcast.doctrineofdiscovery.org/about/)
 
 [The Mapping the Doctrine of Discovery Podcast](https://podcast.doctrineofdiscovery.org) is designed to educate and inform people bout the lasting harmful effects of white Christian hegemony not only upon Indigenous peoples but all peoples. The podcast tells the story of how the Doctrine of Christian Discovery and domination is interwoven into settler-colonial society. As Shawnee/Lenape scholar Steven T. Newcomb highlights in his book [*Pagans in the Promised Land*](https://www.chicagoreviewpress.com/pagans-in-the-promised-land-products-9781555916428.php), the Doctrine of Discovery is the theological and legal justification of domination. This attempt to justify domination focuses on three things enslavement, exploitation, and extraction. With something as deeply rooted and embedded in our society as the Doctrine of Discovery it is difficult to know where to begin so this podcast begins, in the middle. We begin tracing the roots of this system of domination by starting with what does it mean to resist white Christian hegemony.
 
