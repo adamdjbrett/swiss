@@ -22,7 +22,7 @@ Please discuss SU policy with your department and [Syracuse University  Governan
 
 # SU Policy Statements
 [Syracuse University  Governance, Ethics, Integrity, and Legal Compliance](supolicies.syr.edu)
-* [Academic Integrity (effective January 1, 2017)](http://class.syr.edu/academic-integrity/policy/)
+* [Academic Integrity (effective January 1, 2017)](https://class.syr.edu/academic-integrity/policy/)
 * [Athletic Compliance Policy Statement](http://supolicies.syr.edu/ethics/athletic_comply.htm)
 * [Alcohol, Other Drugs, and Tobacco Policies](http://supolicies.syr.edu/ethics/alcohol.htm)
 * [Compliance with the Family Educational Rights and Privacy Act (FERPA)](http://supolicies.syr.edu/ethics/ferpa.htm)
