@@ -3,6 +3,8 @@ layout: category-post
 title:  "Doctrine of Christian Discovery Podcast"
 categories: writing
 ---
+[![Doctrine of Christian Discovery Podcast Art](/assets/img/doctrine-podcast-artwork.png)](https://megaphone.link/AOOOI9257433215)
+
 The conference The Religious Origins of White Supremacy: Johnson v. M'Intosh and the Doctrine of Christian Discovery represented a unique opportunity. Indigenous leaders, scholars, and activists from 20 countries gathered together with non-Indigenous peoples for a collaborative dialogue around three themes 1) the Doctrine of Christian Discovery, 2) the legacy of *Johnson v M'Intosh*; and 3) the religious origins of white supremacy. The conference intentionally incorporated the arts with two powerful indigenous performances *In the Court of the Conqueror* and *Tēnei Te Põ Nau Mai Te Ao: Ancient Māori Puppetry Healing Traumatic Histories*. Additionally art and poetry were present in many sessions. 
 
 Conference organizers Prof. Philip P. Arnold, Sandy Bigtree (Mohawk Nation), and Adam DJ Brett, established the conference methodology as following the Two Row Wampum treaty. This 1613 treaty between the Haudenosaunee and the Dutch is represented in a wampum belt where each nation is a row of purple beads traveling side by side down the river of live. Each one not interfering with one another but moving forward in symmetrical and mutual directions living in harmony with the natural world. 
