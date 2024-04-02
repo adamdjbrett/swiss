@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Adam DJ Brett
-description: "I earned my Ph.D. in Religion from Syracuse University where I studied American religion, media, and culture."
+description: ":computer: :coffee: decoding religion, media, & culture"
 baseurl:  # the subpath of your site, e.g. /blog
 url: "https://www.adamdjbrett.com" # the base hostname & protocol for your site, e.g. http://example.com
 production_url: 'https://www.adamdjbrett.com'
