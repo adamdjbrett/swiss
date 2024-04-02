@@ -61,6 +61,8 @@ plugins:
   -  jekyll-redirect-from
   -  jemoji
   -  jekyll-feed
+feed:
+  path: /feed.xml
 
 sass:
     sass_dir: _sass
