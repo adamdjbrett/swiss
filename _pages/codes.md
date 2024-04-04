@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Codes
-permalink: /Codes/
+permalink: /codes/
 ---
 ## Discount Codes
 If you love discounts these codes are for you. These are all referal links and they help both of us out.

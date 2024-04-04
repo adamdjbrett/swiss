@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Connect
-permalink: /Connect/
+permalink: /connect/
 ---
 ## Around The Web
 Let's get social and connect via the web and chat.
