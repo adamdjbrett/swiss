@@ -1,0 +1,47 @@
+---
+layout: page
+title: Connect
+permalink: /Connect/
+---
+## Around The Web
+Let's get social and connect via the web and chat.
+
+* [Home](https://adamdjbrett.com)
+* [Blog](https://adjb.com)
+* [.tel](https://adamdj.tel)
+* [About.me](https://about.me/adamdjbrett)
+* [Carrd](https://adjb.carrd.co/)
+* [Academia.edu](https://syr.academia.edu/AdamBrett)
+* [AILA](https://aila.ngo/staff-and-board/)
+* [Arts & Science, Syracuse University](https://artsandsciences.syracuse.edu/people/part-time/adam-dj-brett/)
+* [Bluesky](https://adjb.bsky.social)
+* [Buy Me a Coffee](https://www.buymeacoffee.com/adamdjbrett)
+* [Dev](https://dev.to/adamdjbrett)
+* [Diaspora](https://diasp.org/people/9b9bd598e5c18e8f)
+* [Doctrine of Discovery](https://doctrineofdiscovery.org/authors/adam-dj-brett)
+* [Github](https://github.com/adamdjbrett)
+* [Good Faith Media](https://goodfaithmedia.org/author/adam-dj-brett/)
+* [Gravatar](http://en.gravatar.com/adamdjbrett)
+* [Hcommons](https://hcommons.org/members/adamdjbrett/)
+* [Hcommons.social](https://hcommons.social/@adjb)
+* [ImprovMX](https://improvmx.com/?via=adam43)
+* [Invite Codes](https://invitation.app/@adjb)
+* [Indigenous Values Initiative](https://indigenousvalues.org/author/adamdjbrett/)
+* [Instagram](https://www.instagram.com/__adjb/)
+* [Kofi](https://ko-fi.com/adamdjbrett)
+* [Linkedin](https://linkedin.com/in/adamdjbrett)
+* [MTSU](https://w1.mtsu.edu/faculty/adam-dj-brett)
+* [NABPR](https://nabpr.org/officers/)
+* [omg.lol](https://adjb.omg.lol)
+* [Open Collective](https://opencollective.com/adamdjbrett)
+* [ORCID](https://orcid.org/0009-0004-6725-8425)
+* [PhilPeople](https://philpeople.org/profiles/adam-dj-brett)
+* [Post.news](https://post.news/@/adamdjbrett)
+* [Pinterest](https://www.pinterest.com/adjbx/)
+* [proven.lol](https://adjb.proven.lol)
+* [Research Gate](https://www.researchgate.net/profile/Adam-Brett-2)
+* [Google Scholar](https://scholar.google.com/citations?user=RDtqciQAAAAJ)
+* [Spoutible](https://spoutible.com/Adamdjbrett)
+* [Threads](https://www.threads.net/@__adjb)
+* [Twitter](https://twitter.com/__adjb)
+* [Zotero](https://www.zotero.org/adamdjbrett)

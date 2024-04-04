@@ -28,9 +28,10 @@ With the American Indian Law Alliance, Adam facilitates conferences discussions,
   * Western Religion
   * Religion and Society
 
-## Connect
+## [Connect](connect)
   * <adam@adamdjbrett.com>
-  * [@__adjb](https://twitter.com/__adjb)
-  * [github](https://github.com/adamdjbrett/)
+  * [All my socials](/connect/)
   * <a rel="me" href="https://hcommons.social/@adjb">HCommons Mastodon Instance</a>
+  * [Affiliate Links and Discount Codes](/codes/)
 
+[privacy policy](/privacy-policy)

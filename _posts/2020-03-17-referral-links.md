@@ -90,3 +90,6 @@ Sometimes fast isn't fast enough. When you need to speed up your website try Bun
     - [Vultr (hosting)](https://www.vultr.com/?ref=8341661)
   - WordPress (Content Management System)
   - BunnyCDN (Content Delivery Network)
+
+### Mail
+- [ImprovMX](https://improvmx.com/?via=adam43)
