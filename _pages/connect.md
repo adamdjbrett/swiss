@@ -44,6 +44,7 @@ Let's get social and connect via the web and chat.
 * [SciProfiles](https://sciprofiles.com/profile/adamdjbrett)
 * [Google Scholar](https://scholar.google.com/citations?user=RDtqciQAAAAJ)
 * [Spoutible](https://spoutible.com/Adamdjbrett)
+* [Status](https://adjb.status.lol/)
 * [Threads](https://www.threads.net/@__adjb)
 * [Twitter](https://twitter.com/__adjb)
 * [Zotero](https://www.zotero.org/adamdjbrett)
