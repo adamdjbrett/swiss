@@ -38,6 +38,7 @@ Let's get social and connect via the web and chat.
 * [PhilPeople](https://philpeople.org/profiles/adam-dj-brett)
 * [Post.news](https://post.news/@/adamdjbrett)
 * [Pinterest](https://www.pinterest.com/adjbx/)
+* [Pronouns](https://en.pronouns.page/@adamdjbrett)
 * [proven.lol](https://adjb.proven.lol)
 * [Research Gate](https://www.researchgate.net/profile/Adam-Brett-2)
 * [SciProfiles](https://sciprofiles.com/profile/adamdjbrett)
