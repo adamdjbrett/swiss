@@ -16,4 +16,4 @@ If you love discounts these codes are for you. These are all referal links and t
 - [BunnyCDN](https://bunnycdn.com/?ref=wtn001abeo)
 - [ImprovMX](https://improvmx.com/?via=adam43)
 - [Invite Codes](invt.co/@adjb)
-- [Premier Lacrosse LEague Merch](https://refer.premierlacrosseleague.com/adam4673)
+- [Premier Lacrosse League Merch](https://refer.premierlacrosseleague.com/adam4673)
