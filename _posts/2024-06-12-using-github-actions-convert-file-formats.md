@@ -99,8 +99,8 @@ In this section please make sure that you create your ``MY_GITHUB_TOKEN``` via t
     >to: "yaml"
     >token: ${{ steps.generate-app-token.outputs.token }}
 >```
->
->
+  
+  
 ### My Comments
 This section really tripped me up. Creating the app and installing the app take time but the setup eventually was fairly direct. Here is a screenshot of the settings I used.
 [![Screenshot of the App Settings click to enlarge](/assets/img/screencapture-github-settings-apps-adjb-dfca-2024-06-11-20_03_59_tn.jpg)](screencapture-github-settings-apps-adjb-dfca-2024-06-11-20_03_59_tn.jpg)
