@@ -223,6 +223,9 @@ Second switching to python thanks to [@imajeetyadav](https://github.com/imajeety
                   json_file.write(json_data) 
 ```
 
+[The current full file may be viewed in the repo](https://github.com/adamdjbrett/relcfp/blob/main/feed.json)
+
+
 ## Thank you to:
 - [@fabasoad](https://github.com/fabasoad) on github
 - Mahboob Ahmed on Stack Overflow
