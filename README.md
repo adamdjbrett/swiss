@@ -1,6 +1,7 @@
 # [Adam DJ Brett](https://adamdjbrett.com)
 ![GitHub deployments](https://img.shields.io/github/deployments/adamdjbrett/adamdjbrett.github.io/github-pages)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/adamdjbrett/adamdjbrett.github.io)
+[![pages-build-deployment](https://github.com/adamdjbrett/adamdjbrett.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/adamdjbrett/adamdjbrett.github.io/actions/workflows/pages/pages-build-deployment)
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
 [![Jekyll](https://img.shields.io/badge/Made%20with-Jekyll-1f425f.svg)](https://jekyllrb.com/)
 
