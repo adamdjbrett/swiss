@@ -225,7 +225,7 @@ Second switching to python thanks to [@imajeetyadav](https://github.com/imajeety
 
 ## Thank you to:
 - [@fabasoad](https://github.com/fabasoad) on github
-- Mahboob Ahmed on StackOVerflow
+- Mahboob Ahmed on Stack Overflow
 - [Raule Melo](https://www.raulmelo.me)
 - [@imajeetyadav](https://github.com/imajeetyadav)
 - [@spenserblack](https://github.com/spenserblack)
