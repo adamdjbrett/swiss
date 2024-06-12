@@ -115,7 +115,7 @@ I had a lot of issues trying to figure out the keys. If you are having trouble, 
 
 ### Current Settings
 
-```
+```yml
 # This is a basic workflow to help you get started with Actions
 
 name: XML2JSON #Change the Name
@@ -185,7 +185,7 @@ Following that article I was able to get my file to save and commit to the repos
 
 What wound up working was two things first sanitzing the json thanks to [@spenserblack](https://github.com/spenserblack)
 
-```
+```yml
 name: Print result
 run: echo "$RESULT" > feed.json
 env:
@@ -193,7 +193,7 @@ env:
 ```
 
 Second switching to python thanks to [@imajeetyadav](https://github.com/imajeetyadav)
-```
+```yml
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
