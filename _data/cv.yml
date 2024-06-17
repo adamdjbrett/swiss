@@ -316,8 +316,8 @@ data:
     title: "Collaborative Digital Humanities Research Projects"
     text: |
       - **Executive Producer**, *Doctrine of Christian Discovery Podcast* Limited Series, ([link.adjb.co/docd](https://goodfaithmedia.org/doctrine-of-christian-discovery/))
-      - **Academic Collaborative Member, Web Developer**, *Doctrine of Discovery Project* (doctrineofdiscovery.org), (2017-present)
-      - **Co-Producer**, *Mapping the Doctrine of Discovery: A Podcast* (podcast.doctrineofdiscovery.org), (2022-present)
+      - **Academic Collaborative Member, Web Developer**, *Doctrine of Discovery Project* ([doctrineofdiscovery.org](https://doctrineofdiscovery.org)), (2017-present)
+      - **Co-Producer**, *Mapping the Doctrine of Discovery: A Podcast* ([podcast.doctrineofdiscovery.org](https://podcast.doctrineofdiscovery.org)), (2022-present)
       - **Web Developer,** Then and Now Project: three case studies of dispossession (2020-present)
         -   *Then and now Project* ([thenandnow.us](https://thenandnow.us/))
         -   *Sullivan-Clinton Campaign* ([sullivanclinton.com](https://sullivanclinton.com/))
@@ -422,7 +422,7 @@ data:
         - AAR (American Academy of Religion)
         - SBL (Society of Biblical Literature)
         - NABPR (National Association of Baptist Professors of Religion)
-        - NAASR (North American Association For The Study Of Religion)
+        - NAASR (North American Association For The Study of Religion)
 
   technical:
       title: Technical skills
