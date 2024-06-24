@@ -11,6 +11,7 @@ tags:
   - doctrine-of-discovery
   - Haudenosaunee
   - Indigenous-Peoples
+canonical_url: https://doctrineofdiscovery.org/event/education/mother-earths-pandemic/
 ---
 > “Peace can only be attained when human beings live in proper relationship to the natural world” ~Tadodaho of the Haudenosaunee Confederacy, Sid Hill
 
