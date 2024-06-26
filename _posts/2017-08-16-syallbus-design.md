@@ -4,7 +4,7 @@ title:  "Syllabus Design Resources at Syracuse University"
 date:   2017-08-16
 excerpt: "Selected syllabus design resources at Syracuse University."
 excerpt_separator: <!--more-->
-categories: website
+categories: notes
 tags:
   - TAOP
   - technology

@@ -1,6 +1,7 @@
 ---
 layout: category-post
 title:  "Will you be my Premier Lacrosse League Buddy?"
+categories: notes
 ---
 Growing up I played sports but I did not really love sports. However that all changed when I moved to study at Syracuse University and I feell in love with [*Deyhontsigwa'ehs* (lacrosse)](https://indigenousvalues.org/contributions/lacrosse/). In many ways lacrosse chose me. What I love about lacrosse is its deep roots in the Haudenosaunee Confederacy, its role as a Medicine Game, a way to bring healing and how it is used diplomatically. The athletes playing for the [Haudenosuanee Nationals](https://haudenosauneenationals.com/) travel on the Haudenosaunee passport. I love that lacrosse provides a reminder and chance to affirm Haudenosaunee Confederacy sovereignty and tell the story of the Great Law of Peace. The past, present, and future of lacrosee are inspiring to me. My first lacrosse stick is a wooden lacrosse stick made by the late great Onondaga Nation stickmaker [Alfie Jacques](https://alfieaward.com/). My favorite types of lacrosse to watching collegiate lacrosse, box lacrosse, field lacrosse, and Olympic sixes. Of course the Syracuse University :orange: are my favorite team. Professionally I love the [National Lacrosse League (NLL)](https://nll.com) which is box lacrosse and the [Premier Lacrosse League](https://premierlacrosseleague.com/) which is field. 
 

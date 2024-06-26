@@ -1,7 +1,7 @@
 ---
 layout: category-post
 title:  "The 23rd UN Permanent Forum on Indigenous Issues (UNPFII)"
-categories: events
+categories: notes
 ---
 ## Side Events
 

@@ -1,7 +1,7 @@
 ---
 layout: category-post
 title:  "Mapping the Doctrine of Discovery Podcast"
-categories: writing
+categories: notes
 ---
 [![Mapping the Doctrine of Discovery Cover Art](/assets/img/mapping-doctrine-of-discovery-favicon.webp)](https://podcast.doctrineofdiscovery.org/about/)
 

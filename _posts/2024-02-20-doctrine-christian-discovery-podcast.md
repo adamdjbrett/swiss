@@ -1,7 +1,7 @@
 ---
 layout: category-post
 title:  "Doctrine of Christian Discovery Podcast"
-categories: writing
+categories: notes
 ---
 [![Doctrine of Christian Discovery Podcast Art](/assets/img/doctrine-podcast-artwork.png)](https://megaphone.link/AOOOI9257433215)
 

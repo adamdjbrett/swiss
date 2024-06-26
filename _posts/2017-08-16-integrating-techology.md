@@ -4,7 +4,7 @@ title:  "Integrating Technology in the Classroom"
 date:   2017-08-16
 excerpt: "Integrating Technology in the Classroom and utilizing technology to enhance teaching."
 excerpt_separator: <!--more-->
-categories: website
+categories: notes
 tags:
   - TAOP
   - technology

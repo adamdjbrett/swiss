@@ -1,7 +1,7 @@
 ---
 layout: category-post
 title:  "Trump’s Dangerous Rhetoric of Dehumanization"
-categories: writing
+categories: notes
 canonical_url: https://goodfaithmedia.org/432273-2/
 ---
 Thank you to [Good Faith Media](https://goodfaithmedia.org/) for publishing my first op-ed.
