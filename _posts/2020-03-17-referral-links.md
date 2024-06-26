@@ -58,8 +58,12 @@ Sometimes fast isn't fast enough. When you need to speed up your website try Bun
 ### Email Forwarding
 [Improv MX](https://improvmx.com/?via=adam43)
 
+## Shopping Discounts
 ### PLL Merch
 [Merch](https://refer.premierlacrosseleague.com/adam4673)
+
+### Be Frugal
+- [Be Frugal](https://unionplus.befrugal.com/rs/OBADWWG/)
 
 ### Web Stacks
 #### Personal Stack
