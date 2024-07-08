@@ -41,9 +41,9 @@ Carrd.co is the best \#nocode utility out there. It is great for academics, prof
     * The whole collective runs on nostalgia and carrd.co
 
 #### Cloud VPS Hosting
-- [UpCloud](https://upcloud.com/signup/?promo=63JE42)  
-Deploy your first cloud server with [UpCloud](https://upcloud.com/signup/?promo=63JE42) today! [Get a $25 bonus when signing up with this referral link](https://upcloud.com/signup/?promo=63JE42).
-Do you need something more robust than a one page website and are you not ready to go "serverless" with a static site generator like Jekyll or 11ty? Then UpCloud is for you. In my experience UpCloud is way easier to use than Vultr and Digital Ocean. You can deploy a robust and fast WordPress site in about 2-3 minutes based on my experience. You will be able to have WordPress + your bespoke theme up and going quickly. Plus your server bill and hosting will be very reasonable and if you want you can always boost your WordPress site performance by adding a Content Delivery Network (CDN) to take a lhelp your audience get your content even faster.
+- [Digital Ocean](https://m.do.co/c/ff35163be632)  
+Deploy your first cloud server with [Digital Ocean](https://m.do.co/c/ff35163be632) today! [Get a $25 bonus when signing up with this referral link](https://upcloud.com/signup/?promo=63JE42).
+Do you need something more robust than a one page website and are you not ready to go "serverless" with a static site generator like Jekyll or 11ty? Then DigitalOcean is for you. In my experience UpCloud is way easier to use than Vultr and Digital Ocean. You can deploy a robust and fast WordPress site in about 2-3 minutes based on my experience. You will be able to have WordPress + your bespoke theme up and going quickly. Plus your server bill and hosting will be very reasonable and if you want you can always boost your WordPress site performance by adding a Content Delivery Network (CDN) to take a lhelp your audience get your content even faster.
 
 
 ### Content Delivery Network (CDN)
@@ -90,7 +90,7 @@ Sometimes fast isn't fast enough. When you need to speed up your website try Bun
 #### Dynamic site client stack
   - name.com, namcheap.com, hover.com (domain names)
   - Github (Codebase)
-  - Digital Ocean (hosting)
+  - [Digital Ocean](https://m.do.co/c/ff35163be632) (hosting)
     - [Vultr (hosting)](https://www.vultr.com/?ref=8341661)
   - WordPress (Content Management System)
   - BunnyCDN (Content Delivery Network)
