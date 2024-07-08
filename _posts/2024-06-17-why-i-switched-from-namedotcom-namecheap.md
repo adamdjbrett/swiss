@@ -148,7 +148,7 @@ Using these links I may earn a comission.
 - [BunnyCDN](https://bunnycdn.com/?ref=wtn001abeo)
 - [Digital Ocean](https://m.do.co/c/ff35163be632)
 - [Carrd](https://try.carrd.co/adjb)
-- [ImprovMX](https://improvmx.com/?via=adam43)
+- [ImprovMX](https://improvmx.com/)
 - [Premier Lacrosse League Merch](https://refer.premierlacrosseleague.com/adam4673)
 ### More codes:
 - [Invite Codes](https://invt.co/@adjb)

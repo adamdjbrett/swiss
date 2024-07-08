@@ -56,7 +56,7 @@ Do you need something more robust than a one page website and are you not ready 
 Sometimes fast isn't fast enough. When you need to speed up your website try BunnyCDN. BunnyCDN is fast, reliable, and quite powerful. It is also the most cost effective CDN I have found thus far at mere pennies on the GB served up to your website visitors. If you have a resource intensive website or if your website is just extremely popular check out BunnyCDN.
 
 ### Email Forwarding
-[Improv MX](https://improvmx.com/?via=adam43)
+[Improv MX](https://improvmx.com/)
 
 ## Shopping Discounts
 ### PLL Merch
@@ -90,10 +90,10 @@ Sometimes fast isn't fast enough. When you need to speed up your website try Bun
 #### Dynamic site client stack
   - name.com, namcheap.com, hover.com (domain names)
   - Github (Codebase)
-  - UpCloud (hosting)
+  - Digital Ocean (hosting)
     - [Vultr (hosting)](https://www.vultr.com/?ref=8341661)
   - WordPress (Content Management System)
   - BunnyCDN (Content Delivery Network)
 
 ### Mail
-- [ImprovMX](https://improvmx.com/?via=adam43)
+- [ImprovMX](https://improvmx.com/)

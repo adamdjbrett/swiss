@@ -24,7 +24,6 @@ Let's get social and connect via the web and chat.
 * [Gravatar](http://en.gravatar.com/adamdjbrett)
 * [Hcommons](https://hcommons.org/members/adamdjbrett/)
 * [Hcommons.social](https://hcommons.social/@adjb)
-* [ImprovMX](https://improvmx.com/?via=adam43)
 * [Invite Codes](https://invitation.app/@adjb)
 * [Indigenous Values Initiative](https://indigenousvalues.org/author/adamdjbrett/)
 * [Instagram](https://www.instagram.com/__adjb/)
