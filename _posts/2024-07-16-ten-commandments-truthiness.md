@@ -1,4 +1,4 @@
- ---
+---
 layout: category-post
 title:  "Louisiana’s Ten Commandment Truthiness"
 categories: notes
