@@ -35,7 +35,6 @@ Let's get social and connect via the web and chat.
 * [Open Collective](https://opencollective.com/adamdjbrett)
 * [ORCID](https://orcid.org/0009-0004-6725-8425)
 * [PhilPeople](https://philpeople.org/profiles/adam-dj-brett)
-* [Post.news](https://post.news/@/adamdjbrett)
 * [Pinterest](https://www.pinterest.com/adjbx/)
 * [Pronouns](https://en.pronouns.page/@adamdjbrett)
 * [proven.lol](https://adjb.proven.lol)
